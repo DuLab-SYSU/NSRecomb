@@ -1,0 +1,10759 @@
+{
+	"1": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"4": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"7": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"10": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"13": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"16": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"19": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"22": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"25": [
+		[
+			"E",
+			"PangolinGD",
+			0.997
+		]
+	],
+	"28": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"31": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"34": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"37": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.993
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.993
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.993
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.993
+		]
+	],
+	"40": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.99
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.99
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.99
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.99
+		]
+	],
+	"43": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.986
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.986
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.986
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.986
+		]
+	],
+	"46": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.985
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.985
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.985
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.985
+		]
+	],
+	"49": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"52": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"55": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"58": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"61": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"64": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"67": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.999
+		]
+	],
+	"70": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"73": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.996
+		]
+	],
+	"76": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.999
+		]
+	],
+	"79": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.999
+		]
+	],
+	"82": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"85": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"88": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"91": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"94": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"97": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"100": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"103": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"106": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"109": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"112": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"115": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"118": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"121": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"124": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"127": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"130": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"133": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"136": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		]
+	],
+	"139": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.998
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.998
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.998
+		]
+	],
+	"142": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.994
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.994
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.994
+		]
+	],
+	"145": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.974
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.974
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.974
+		]
+	],
+	"148": [
+		[
+			"E",
+			"PangolinGD",
+			0.771
+		]
+	],
+	"151": [
+		[
+			"E",
+			"PangolinGD",
+			0.7479999999999999
+		]
+	],
+	"154": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.874
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.874
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.874
+		]
+	],
+	"157": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.988
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.988
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.988
+		]
+	],
+	"160": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.911
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.911
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.911
+		]
+	],
+	"163": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.945
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.945
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.945
+		]
+	],
+	"166": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"169": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"172": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"175": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"178": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"181": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"184": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"187": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"190": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"193": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"196": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"199": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"202": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"205": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"208": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"211": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"214": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"217": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"220": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"223": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"226": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"229": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"232": [
+		[
+			"V",
+			"BtRs_YN2013",
+			1.0
+		],
+		[
+			"V",
+			"Anlong_103",
+			1.0
+		],
+		[
+			"V",
+			"Anlong_112",
+			1.0
+		]
+	],
+	"235": [
+		[
+			"V",
+			"BtRs_YN2013",
+			1.0
+		],
+		[
+			"V",
+			"Anlong_103",
+			1.0
+		],
+		[
+			"V",
+			"Anlong_112",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"238": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"241": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"244": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"247": [
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"250": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"253": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"256": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"259": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"262": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"265": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"268": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"271": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"274": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"277": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"280": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"283": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"286": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"289": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"292": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"295": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"298": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"301": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"304": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"307": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"310": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"313": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"316": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"319": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"322": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"325": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"328": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"331": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"334": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"337": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"340": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"343": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"346": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"349": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"352": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"355": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"358": [
+		[
+			"E",
+			"PangolinGD",
+			0.999
+		]
+	],
+	"361": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"364": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.995
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.995
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.995
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.995
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.995
+		]
+	],
+	"367": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.983
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.983
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.983
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.983
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.983
+		]
+	],
+	"370": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.999
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.999
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.999
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.999
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.999
+		]
+	],
+	"373": [
+		[
+			"E",
+			"PangolinGD",
+			0.999
+		]
+	],
+	"376": [
+		[
+			"E",
+			"PangolinGD",
+			0.998
+		]
+	],
+	"379": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"382": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"385": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"388": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"391": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"394": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"397": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"400": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"403": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"406": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"409": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"412": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"415": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"418": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"421": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"424": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"427": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"430": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"433": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"436": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"439": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"442": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"445": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"448": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"451": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"454": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"457": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"460": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"463": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"466": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"469": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"472": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"475": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"478": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"481": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"484": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"487": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"490": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"493": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"496": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"499": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"502": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"505": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"508": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"511": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"514": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"517": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"520": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"523": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"526": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"529": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"532": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"535": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"538": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"541": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"544": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"547": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"550": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"553": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"556": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"559": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"562": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"565": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"568": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"571": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"574": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"577": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"580": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"583": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"586": [
+		[
+			"E",
+			"PangolinGD",
+			0.999
+		]
+	],
+	"589": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"592": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"595": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"598": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"601": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"604": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"607": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"610": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"613": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"616": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"619": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"622": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"625": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"628": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"631": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"634": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"637": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"640": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"643": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"646": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"649": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"652": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"655": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"658": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"661": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"664": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"667": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"670": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"673": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"676": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"679": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"682": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"685": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"688": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"691": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"694": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"697": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"700": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"703": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"706": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"709": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"712": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"715": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"718": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"721": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"724": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"727": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"730": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"733": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		]
+	],
+	"736": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.992
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.992
+		],
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.949
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.949
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.949
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.949
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.949
+		]
+	],
+	"739": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.992
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.992
+		],
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.977
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.977
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.977
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.977
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.977
+		]
+	],
+	"742": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.978
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.978
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.978
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.978
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.978
+		]
+	],
+	"745": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.98
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.98
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.98
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.98
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.98
+		]
+	],
+	"748": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.996
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.996
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.996
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.996
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.996
+		]
+	],
+	"751": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.997
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.997
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.997
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.997
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.997
+		]
+	],
+	"754": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.999
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.999
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.999
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.999
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.999
+		]
+	],
+	"757": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			1.0
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			1.0
+		]
+	],
+	"760": [
+		[
+			"E",
+			"PangolinGD",
+			0.999
+		]
+	],
+	"763": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"766": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			1.0
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			1.0
+		]
+	],
+	"769": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.991
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.991
+		]
+	],
+	"772": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.998
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.998
+		]
+	],
+	"775": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.993
+		]
+	],
+	"778": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.955
+		]
+	],
+	"781": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.973
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.966
+		]
+	],
+	"784": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.974
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.974
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.974
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.974
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.974
+		]
+	],
+	"787": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.956
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.956
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.956
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.956
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.956
+		]
+	],
+	"790": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.924
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.924
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.924
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.924
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.924
+		]
+	],
+	"793": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.952
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.955
+		],
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.923
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.923
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.923
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.923
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.923
+		]
+	],
+	"796": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.951
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.951
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.951
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.951
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.951
+		]
+	],
+	"799": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.999
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.998
+		]
+	],
+	"802": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.999
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.998
+		],
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.998
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.998
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.998
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.998
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.998
+		]
+	],
+	"805": [
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.996
+		]
+	],
+	"808": [
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.98
+		],
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.963
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.963
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.963
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.963
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.963
+		]
+	],
+	"811": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.91
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.91
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.91
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.91
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.91
+		]
+	],
+	"814": [
+		[
+			"E",
+			"PangolinGD",
+			0.746
+		]
+	],
+	"817": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.995
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.995
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.995
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.995
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.995
+		]
+	],
+	"820": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.99
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.99
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.99
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.99
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.99
+		]
+	],
+	"823": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.879
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.879
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.879
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.879
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.879
+		]
+	],
+	"826": [
+		[
+			"E",
+			"PangolinGD",
+			0.23000000000000007
+		]
+	],
+	"829": [
+		[
+			"E",
+			"PangolinGD",
+			0.706
+		]
+	],
+	"832": [
+		[
+			"E",
+			"PangolinGD",
+			0.692
+		]
+	],
+	"835": [
+		[
+			"E",
+			"PangolinGD",
+			0.702
+		]
+	],
+	"838": [
+		[
+			"E",
+			"PangolinGD",
+			0.7086666666666667
+		]
+	],
+	"841": [
+		[
+			"E",
+			"PangolinGD",
+			0.537
+		]
+	],
+	"844": [
+		[
+			"E",
+			"PangolinGD",
+			0.687
+		]
+	],
+	"847": [
+		[
+			"E",
+			"PangolinGD",
+			0.7
+		]
+	],
+	"850": [
+		[
+			"E",
+			"PangolinGD",
+			0.63
+		]
+	],
+	"853": [
+		[
+			"E",
+			"PangolinGD",
+			0.57
+		]
+	],
+	"856": [
+		[
+			"E",
+			"PangolinGD",
+			0.375
+		]
+	],
+	"859": [
+		[
+			"E",
+			"PangolinGD",
+			0.555
+		]
+	],
+	"862": [
+		[
+			"E",
+			"PangolinGD",
+			0.48599999999999993
+		]
+	],
+	"865": [
+		[
+			"E",
+			"PangolinGD",
+			0.3758333333333333
+		]
+	],
+	"868": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"871": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"874": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"877": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"880": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"883": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"886": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"889": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"892": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"895": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"898": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"901": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"904": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"907": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"910": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"913": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"916": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"919": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"922": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"925": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"928": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"931": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"934": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"937": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"940": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"943": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"946": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"949": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"952": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"955": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"958": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"961": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"964": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"967": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"970": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"973": [
+		[
+			"E",
+			"PangolinGD",
+			0.458
+		]
+	],
+	"976": [
+		[
+			"E",
+			"PangolinGD",
+			0.635
+		]
+	],
+	"979": [
+		[
+			"E",
+			"PangolinGD",
+			0.636
+		]
+	],
+	"982": [
+		[
+			"E",
+			"PangolinGD",
+			0.708
+		]
+	],
+	"985": [
+		[
+			"E",
+			"PangolinGD",
+			0.611
+		]
+	],
+	"988": [
+		[
+			"E",
+			"PangolinGD",
+			0.63
+		]
+	],
+	"991": [
+		[
+			"E",
+			"PangolinGD",
+			0.689
+		]
+	],
+	"994": [
+		[
+			"E",
+			"PangolinGD",
+			0.693
+		]
+	],
+	"997": [
+		[
+			"E",
+			"PangolinGD",
+			0.706
+		]
+	],
+	"1000": [
+		[
+			"E",
+			"PangolinGD",
+			0.742
+		]
+	],
+	"1003": [
+		[
+			"E",
+			"PangolinGD",
+			0.763
+		]
+	],
+	"1006": [
+		[
+			"E",
+			"PangolinGD",
+			0.769
+		]
+	],
+	"1009": [
+		[
+			"E",
+			"PangolinGD",
+			0.717
+		]
+	],
+	"1012": [
+		[
+			"E",
+			"PangolinGD",
+			0.652
+		]
+	],
+	"1015": [
+		[
+			"E",
+			"PangolinGD",
+			0.691
+		]
+	],
+	"1018": [
+		[
+			"E",
+			"PangolinGD",
+			0.695
+		]
+	],
+	"1021": [
+		[
+			"E",
+			"PangolinGD",
+			0.629
+		]
+	],
+	"1024": [
+		[
+			"E",
+			"PangolinGD",
+			0.729
+		]
+	],
+	"1027": [
+		[
+			"E",
+			"PangolinGD",
+			0.545
+		]
+	],
+	"1030": [
+		[
+			"E",
+			"PangolinGD",
+			0.20249999999999999
+		]
+	],
+	"1033": [
+		[
+			"E",
+			"PangolinGD",
+			0.3958333333333333
+		]
+	],
+	"1036": [
+		[
+			"E",
+			"PangolinGD",
+			0.367
+		]
+	],
+	"1039": [
+		[
+			"E",
+			"PangolinGD",
+			0.35916666666666663
+		]
+	],
+	"1042": [
+		[
+			"E",
+			"PangolinGD",
+			0.39000000000000007
+		]
+	],
+	"1045": [
+		[
+			"E",
+			"PangolinGD",
+			0.38166666666666665
+		]
+	],
+	"1048": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1051": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1054": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1057": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1060": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1063": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1066": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1069": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1072": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1075": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1078": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1081": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1084": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1087": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1090": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1093": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1096": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1099": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1102": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1105": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1108": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1111": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1114": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1117": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1120": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1123": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1126": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1129": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1132": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1135": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1138": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1141": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1144": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1147": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1150": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1153": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1156": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1159": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1162": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1165": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1168": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1171": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1174": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1177": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1180": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1183": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1186": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1189": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1192": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1195": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1198": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1201": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1204": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1207": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1210": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1213": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1216": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1219": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1222": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1225": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1228": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1231": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1234": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1237": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1240": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1243": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1246": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1249": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1252": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1255": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1258": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1261": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1264": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1267": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1270": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1273": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1276": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1279": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1282": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1285": [
+		[
+			"E",
+			"PangolinGD",
+			0.409
+		]
+	],
+	"1288": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1291": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1294": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1297": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1300": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1303": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1306": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1309": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"1312": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"1315": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"1318": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"1321": [
+		[
+			"E",
+			"PangolinGD",
+			0
+		]
+	],
+	"1324": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1327": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1330": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1333": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1336": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1339": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1342": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1345": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1348": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1351": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1354": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1357": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1360": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1363": [
+		[
+			"E",
+			"PangolinGD",
+			0.993
+		]
+	],
+	"1366": [
+		[
+			"E",
+			"PangolinGD",
+			0.983
+		]
+	],
+	"1369": [
+		[
+			"E",
+			"PangolinGD",
+			0.9360000000000002
+		]
+	],
+	"1372": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			1.0
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			1.0
+		]
+	],
+	"1375": [
+		[
+			"E",
+			"PangolinGD",
+			0.9890000000000001
+		]
+	],
+	"1378": [
+		[
+			"E",
+			"PangolinGD",
+			0.984
+		]
+	],
+	"1381": [
+		[
+			"E",
+			"PangolinGD",
+			0.975
+		]
+	],
+	"1384": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.942
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.942
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.942
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.942
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.942
+		]
+	],
+	"1387": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.912
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.912
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.912
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.912
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.912
+		]
+	],
+	"1390": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.898
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.898
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.898
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.898
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.898
+		]
+	],
+	"1393": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.966
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.966
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.966
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.966
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.966
+		]
+	],
+	"1396": [
+		[
+			"E",
+			"PangolinGD",
+			0.562
+		]
+	],
+	"1399": [
+		[
+			"E",
+			"PangolinGD",
+			0.793
+		]
+	],
+	"1402": [
+		[
+			"E",
+			"PangolinGD",
+			0.525
+		]
+	],
+	"1405": [
+		[
+			"E",
+			"PangolinGD",
+			0.378
+		]
+	],
+	"1408": [
+		[
+			"E",
+			"PangolinGD",
+			0.221
+		]
+	],
+	"1411": [
+		[
+			"E",
+			"PangolinGD",
+			0.384
+		]
+	],
+	"1414": [
+		[
+			"E",
+			"PangolinGD",
+			0.554
+		]
+	],
+	"1417": [
+		[
+			"E",
+			"PangolinGD",
+			0.542
+		]
+	],
+	"1420": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1423": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1426": [
+		[
+			"E",
+			"PangolinGD",
+			1.0
+		]
+	],
+	"1429": [
+		[
+			"E",
+			"PangolinGD",
+			0.9986666666666667
+		]
+	],
+	"1432": [
+		[
+			"E",
+			"PangolinGD",
+			0.993
+		]
+	],
+	"1435": [
+		[
+			"E",
+			"PangolinGD",
+			0.992
+		]
+	],
+	"1438": [
+		[
+			"E",
+			"PangolinGD",
+			0.992
+		]
+	],
+	"1441": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1444": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1447": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1450": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1453": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1456": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1459": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1462": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1465": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1468": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1471": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1474": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1477": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1480": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1483": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1486": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1489": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1492": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1495": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1498": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1501": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1504": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1507": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1510": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1513": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1516": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1519": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1522": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1525": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1528": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1531": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1534": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1537": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1540": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1543": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1546": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1549": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1552": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1555": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1558": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1561": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1564": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1567": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1570": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1573": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1576": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1579": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1582": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1585": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1588": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1591": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1594": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1597": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1600": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1603": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1606": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1609": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1612": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1615": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1618": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1621": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1624": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1627": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1630": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1633": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1636": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1639": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1642": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1645": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1648": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1651": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1654": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1657": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1660": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1663": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1666": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1669": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1672": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1675": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1678": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1681": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1684": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1687": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1690": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1693": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1696": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1699": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1702": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1705": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1708": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1711": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1714": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1717": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1720": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1723": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1726": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1729": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1732": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1735": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1738": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1741": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1744": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1747": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1750": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1753": [
+		[
+			"E",
+			"PangolinGD",
+			0.658
+		]
+	],
+	"1756": [
+		[
+			"E",
+			"PangolinGD",
+			0.644
+		]
+	],
+	"1759": [
+		[
+			"E",
+			"PangolinGD",
+			0.603
+		]
+	],
+	"1762": [
+		[
+			"E",
+			"PangolinGD",
+			0.645
+		]
+	],
+	"1765": [
+		[
+			"E",
+			"PangolinGD",
+			0.624
+		]
+	],
+	"1768": [
+		[
+			"E",
+			"PangolinGD",
+			0.65
+		]
+	],
+	"1771": [
+		[
+			"E",
+			"PangolinGD",
+			0.634
+		]
+	],
+	"1774": [
+		[
+			"E",
+			"PangolinGD",
+			0.646
+		]
+	],
+	"1777": [
+		[
+			"E",
+			"PangolinGD",
+			0.635
+		]
+	],
+	"1780": [
+		[
+			"E",
+			"PangolinGD",
+			0.629
+		]
+	],
+	"1783": [
+		[
+			"E",
+			"PangolinGD",
+			0.608
+		]
+	],
+	"1786": [
+		[
+			"E",
+			"PangolinGD",
+			0.642
+		]
+	],
+	"1789": [
+		[
+			"E",
+			"PangolinGD",
+			0.595
+		]
+	],
+	"1792": [
+		[
+			"E",
+			"PangolinGD",
+			0.616
+		]
+	],
+	"1795": [
+		[
+			"E",
+			"PangolinGD",
+			0.638
+		]
+	],
+	"1798": [
+		[
+			"E",
+			"PangolinGD",
+			0.647
+		]
+	],
+	"1801": [
+		[
+			"E",
+			"PangolinGD",
+			0.639
+		]
+	],
+	"1804": [
+		[
+			"E",
+			"PangolinGD",
+			0.628
+		]
+	],
+	"1807": [
+		[
+			"E",
+			"PangolinGD",
+			0.642
+		]
+	],
+	"1810": [
+		[
+			"E",
+			"PangolinGD",
+			0.639
+		]
+	],
+	"1813": [
+		[
+			"E",
+			"PangolinGD",
+			0.648
+		]
+	],
+	"1816": [
+		[
+			"E",
+			"PangolinGD",
+			0.63
+		]
+	],
+	"1819": [
+		[
+			"E",
+			"PangolinGD",
+			0.646
+		]
+	],
+	"1822": [
+		[
+			"E",
+			"PangolinGD",
+			0.629
+		]
+	],
+	"1825": [
+		[
+			"E",
+			"PangolinGD",
+			0.635
+		]
+	],
+	"1828": [
+		[
+			"E",
+			"PangolinGD",
+			0.15
+		]
+	],
+	"1831": [
+		[
+			"E",
+			"PangolinGD",
+			0.039
+		]
+	],
+	"1834": [
+		[
+			"E",
+			"PangolinGD",
+			0.365
+		]
+	],
+	"1837": [
+		[
+			"E",
+			"PangolinGD",
+			0.328
+		]
+	],
+	"1840": [
+		[
+			"E",
+			"PangolinGD",
+			0.353
+		]
+	],
+	"1843": [
+		[
+			"E",
+			"PangolinGD",
+			0.326
+		]
+	],
+	"1846": [
+		[
+			"E",
+			"PangolinGD",
+			0.327
+		]
+	],
+	"1849": [
+		[
+			"E",
+			"PangolinGD",
+			0.343
+		]
+	],
+	"1852": [
+		[
+			"E",
+			"PangolinGD",
+			0.328
+		]
+	],
+	"1855": [
+		[
+			"E",
+			"PangolinGD",
+			0.337
+		]
+	],
+	"1858": [
+		[
+			"E",
+			"PangolinGD",
+			0.394
+		]
+	],
+	"1861": [
+		[
+			"E",
+			"PangolinGD",
+			0.341
+		]
+	],
+	"1864": [
+		[
+			"E",
+			"PangolinGD",
+			0.366
+		]
+	],
+	"1867": [
+		[
+			"E",
+			"PangolinGD",
+			0.36
+		]
+	],
+	"1870": [
+		[
+			"E",
+			"PangolinGD",
+			0.36
+		]
+	],
+	"1873": [
+		[
+			"E",
+			"PangolinGD",
+			0.322
+		]
+	],
+	"1876": [
+		[
+			"E",
+			"PangolinGD",
+			0.358
+		]
+	],
+	"1879": [
+		[
+			"E",
+			"PangolinGD",
+			0.361
+		]
+	],
+	"1882": [
+		[
+			"E",
+			"PangolinGD",
+			0.366
+		]
+	],
+	"1885": [
+		[
+			"E",
+			"PangolinGD",
+			0.331
+		]
+	],
+	"1888": [
+		[
+			"E",
+			"PangolinGD",
+			0.332
+		]
+	],
+	"1891": [
+		[
+			"E",
+			"PangolinGD",
+			0.365
+		]
+	],
+	"1894": [
+		[
+			"E",
+			"PangolinGD",
+			0.338
+		]
+	],
+	"1897": [
+		[
+			"E",
+			"PangolinGD",
+			0.323
+		]
+	],
+	"1900": [
+		[
+			"E",
+			"PangolinGD",
+			0.359
+		]
+	],
+	"1903": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1906": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1909": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1912": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1915": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1918": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1921": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1924": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1927": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1930": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1933": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1936": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1939": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1942": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1945": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1948": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1951": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1954": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1957": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1960": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1963": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1966": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1969": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1972": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1975": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1978": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1981": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1984": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1987": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1990": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1993": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1996": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"1999": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2002": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2005": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2008": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2011": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2014": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2017": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2020": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2023": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2026": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2029": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2032": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2035": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2038": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2041": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2044": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2047": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2050": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2053": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2056": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2059": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2062": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2065": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2068": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2071": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2074": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2077": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2080": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2083": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2086": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2089": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2092": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2095": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2098": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2101": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2104": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2107": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2110": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2113": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2116": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2119": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2122": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2125": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2128": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2131": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2134": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2137": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2140": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2143": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2146": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2149": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2152": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2155": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2158": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2161": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2164": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2167": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2170": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2173": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2176": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2179": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2182": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2185": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2188": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2191": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2194": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2197": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2200": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2203": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2206": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2209": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2212": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2215": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2218": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2221": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2224": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2227": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2230": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2233": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2236": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2239": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2242": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2245": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2248": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2251": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2254": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2257": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2260": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2263": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2266": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2269": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2272": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2275": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2278": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2281": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2284": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2287": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2290": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2293": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2296": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2299": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2302": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2305": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2308": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2311": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2314": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2317": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2320": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2323": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2326": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2329": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2332": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2335": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2338": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2341": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2344": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2347": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2350": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2353": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2356": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2359": [
+		[
+			"E",
+			"PangolinGD",
+			0.3384
+		]
+	],
+	"2362": [
+		[
+			"E",
+			"PangolinGD",
+			0.3416
+		]
+	],
+	"2365": [
+		[
+			"E",
+			"PangolinGD",
+			0.3528
+		]
+	],
+	"2368": [
+		[
+			"E",
+			"PangolinGD",
+			0.586
+		]
+	],
+	"2371": [
+		[
+			"E",
+			"PangolinGD",
+			0.352
+		]
+	],
+	"2374": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2377": [
+		[
+			"E",
+			"PangolinGD",
+			0.3296
+		]
+	],
+	"2380": [
+		[
+			"E",
+			"PangolinGD",
+			0.31920000000000004
+		]
+	],
+	"2383": [
+		[
+			"E",
+			"PangolinGD",
+			0.3472
+		]
+	],
+	"2386": [
+		[
+			"E",
+			"PangolinGD",
+			0.4
+		]
+	],
+	"2389": [
+		[
+			"E",
+			"PangolinGD",
+			0.414
+		]
+	],
+	"2392": [
+		[
+			"E",
+			"PangolinGD",
+			0.3432
+		]
+	],
+	"2395": [
+		[
+			"E",
+			"PangolinGD",
+			0.3544
+		]
+	],
+	"2398": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2401": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2404": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2407": [
+		[
+			"E",
+			"PangolinGD",
+			0.574
+		]
+	],
+	"2410": [
+		[
+			"E",
+			"PangolinGD",
+			0.41899999999999993
+		]
+	],
+	"2413": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2416": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2419": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2422": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2425": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2428": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2431": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2434": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2437": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2440": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2443": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2446": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2449": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2452": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2455": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2458": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2461": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2464": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2467": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2470": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2473": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2476": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2479": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2482": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2485": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2488": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2491": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2494": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2497": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2500": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2503": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2506": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2509": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2512": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2515": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2518": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2521": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2524": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2527": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2530": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2533": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2536": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2539": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2542": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2545": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2548": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2551": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2554": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2557": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2560": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2563": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2566": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2569": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2572": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2575": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2578": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2581": [
+		[
+			"E",
+			"PangolinGD",
+			0.2833333333333334
+		]
+	],
+	"2584": [
+		[
+			"E",
+			"PangolinGD",
+			0.26666666666666666
+		]
+	],
+	"2587": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2590": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2593": [
+		[
+			"E",
+			"PangolinGD",
+			0.30416666666666664
+		]
+	],
+	"2596": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2599": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2602": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2605": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2608": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2611": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2614": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2617": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2620": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2623": [
+		[
+			"E",
+			"PangolinGD",
+			0.051
+		]
+	],
+	"2626": [
+		[
+			"E",
+			"PangolinGD",
+			0.207
+		]
+	],
+	"2629": [
+		[
+			"E",
+			"PangolinGD",
+			0.395
+		]
+	],
+	"2632": [
+		[
+			"E",
+			"PangolinGD",
+			0.651
+		]
+	],
+	"2635": [
+		[
+			"E",
+			"PangolinGD",
+			0.678
+		]
+	],
+	"2638": [
+		[
+			"E",
+			"PangolinGD",
+			0.634
+		]
+	],
+	"2641": [
+		[
+			"E",
+			"PangolinGD",
+			0.521
+		]
+	],
+	"2644": [
+		[
+			"E",
+			"PangolinGD",
+			0.6366363636363636
+		]
+	],
+	"2647": [
+		[
+			"E",
+			"PangolinGD",
+			0.6331818181818183
+		]
+	],
+	"2650": [
+		[
+			"E",
+			"PangolinGD",
+			0.6390000000000001
+		]
+	],
+	"2653": [
+		[
+			"E",
+			"PangolinGD",
+			0.36099999999999993
+		]
+	],
+	"2656": [
+		[
+			"E",
+			"PangolinGD",
+			0.23000000000000004
+		]
+	],
+	"2659": [
+		[
+			"E",
+			"PangolinGD",
+			0.30900000000000005
+		]
+	],
+	"2662": [
+		[
+			"E",
+			"PangolinGD",
+			0.3545454545454546
+		]
+	],
+	"2665": [
+		[
+			"E",
+			"PangolinGD",
+			0.3372727272727273
+		]
+	],
+	"2668": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2671": [
+		[
+			"E",
+			"PangolinGD",
+			0.471
+		]
+	],
+	"2674": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2677": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2680": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2683": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2686": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2689": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2692": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2695": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2698": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2701": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2704": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2707": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2710": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2713": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2716": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2719": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2722": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2725": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2728": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2731": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2734": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2737": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2740": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2743": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2746": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2749": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2752": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2755": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2758": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2761": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2764": [
+		[
+			"E",
+			"PangolinGD",
+			0.3173333333333333
+		]
+	],
+	"2767": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2770": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2773": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2776": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2779": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2782": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2785": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2788": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2791": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2794": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2797": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2800": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2803": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2806": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2809": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2812": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2815": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2818": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2821": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2824": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2827": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2830": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2833": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2836": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2839": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2842": [
+		[
+			"E",
+			"PangolinGD",
+			0.613
+		]
+	],
+	"2845": [
+		[
+			"E",
+			"PangolinGD",
+			0.552
+		]
+	],
+	"2848": [
+		[
+			"E",
+			"PangolinGD",
+			0.522
+		]
+	],
+	"2851": [
+		[
+			"E",
+			"PangolinGD",
+			0.451
+		]
+	],
+	"2854": [
+		[
+			"E",
+			"PangolinGD",
+			0.223
+		]
+	],
+	"2857": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2860": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2863": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2866": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2869": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2872": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2875": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2878": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2881": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2884": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2887": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2890": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2893": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2896": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2899": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2902": [
+		[
+			"E",
+			"PangolinGD",
+			0.222
+		]
+	],
+	"2905": [
+		[
+			"E",
+			"PangolinGD",
+			0.219
+		]
+	],
+	"2908": [
+		[
+			"E",
+			"PangolinGD",
+			0.2245
+		]
+	],
+	"2911": [
+		[
+			"E",
+			"PangolinGD",
+			0.223
+		]
+	],
+	"2914": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"2917": [
+		[
+			"E",
+			"PangolinGD",
+			0.2295
+		]
+	],
+	"2920": [
+		[
+			"E",
+			"PangolinGD",
+			0.564
+		]
+	],
+	"2923": [
+		[
+			"E",
+			"PangolinGD",
+			0.621
+		]
+	],
+	"2926": [
+		[
+			"E",
+			"PangolinGD",
+			0.559
+		]
+	],
+	"2929": [
+		[
+			"E",
+			"PangolinGD",
+			0.528
+		]
+	],
+	"2932": [
+		[
+			"E",
+			"PangolinGD",
+			0.625
+		]
+	],
+	"2935": [
+		[
+			"E",
+			"PangolinGD",
+			0.647
+		]
+	],
+	"2938": [
+		[
+			"E",
+			"PangolinGD",
+			0.78
+		]
+	],
+	"2941": [
+		[
+			"E",
+			"PangolinGD",
+			0.781
+		]
+	],
+	"2944": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.803
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.803
+		]
+	],
+	"2947": [
+		[
+			"E",
+			"PangolinGD",
+			0.786
+		]
+	],
+	"2950": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.852
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.852
+		]
+	],
+	"2953": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.858
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.858
+		]
+	],
+	"2956": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.849
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.849
+		]
+	],
+	"2959": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.914
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.914
+		]
+	],
+	"2962": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.933
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.933
+		]
+	],
+	"2965": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.912
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.912
+		]
+	],
+	"2968": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.909
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.909
+		]
+	],
+	"2971": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.963
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.963
+		]
+	],
+	"2974": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.968
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.968
+		]
+	],
+	"2977": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.936
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.936
+		]
+	],
+	"2980": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.957
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.957
+		]
+	],
+	"2983": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.948
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.948
+		]
+	],
+	"2986": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.941
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.941
+		]
+	],
+	"2989": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.954
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.954
+		]
+	],
+	"2992": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.866
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.866
+		]
+	],
+	"2995": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.919
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.919
+		]
+	],
+	"2998": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.918
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.918
+		]
+	],
+	"3001": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.95
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.95
+		]
+	],
+	"3004": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.946
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.946
+		]
+	],
+	"3007": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.95
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.95
+		]
+	],
+	"3010": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.936
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.936
+		]
+	],
+	"3013": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.938
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.938
+		]
+	],
+	"3016": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.933
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.933
+		]
+	],
+	"3019": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.881
+		],
+		[
+			"V",
+			"bat_SL_CoVZXC21",
+			0.881
+		]
+	],
+	"3022": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.867
+		]
+	],
+	"3025": [
+		[
+			"V",
+			"Cp/Yunnan2011",
+			0.867
+		],
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.881
+		]
+	],
+	"3028": [
+		[
+			"V",
+			"Cp/Yunnan2011",
+			0.843
+		],
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.869
+		]
+	],
+	"3031": [
+		[
+			"V",
+			"Cp/Yunnan2011",
+			0.84
+		],
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.871
+		]
+	],
+	"3034": [
+		[
+			"V",
+			"bat_SL_CoVZC45",
+			0.83
+		]
+	],
+	"3037": [
+		[
+			"V",
+			"Cp/Yunnan2011",
+			0.844
+		]
+	],
+	"3040": [
+		[
+			"E",
+			"PangolinGD",
+			0.8
+		]
+	],
+	"3043": [
+		[
+			"E",
+			"PangolinGD",
+			0.705
+		]
+	],
+	"3046": [
+		[
+			"E",
+			"PangolinGD",
+			0.727
+		]
+	],
+	"3049": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.88
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.88
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.88
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.88
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.88
+		]
+	],
+	"3052": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.947
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.947
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.947
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.947
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.947
+		]
+	],
+	"3055": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.82
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.82
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.82
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.82
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.82
+		]
+	],
+	"3058": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.824
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.824
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.824
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.824
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.824
+		]
+	],
+	"3061": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.851
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.851
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.851
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.851
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.851
+		]
+	],
+	"3064": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.822
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.822
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.822
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.822
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.822
+		]
+	],
+	"3067": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.823
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.823
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.823
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.823
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.823
+		]
+	],
+	"3070": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.867
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.867
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.867
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.867
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.867
+		]
+	],
+	"3073": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.947
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.947
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.947
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.947
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.947
+		]
+	],
+	"3076": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.923
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.923
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.923
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.923
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.923
+		]
+	],
+	"3079": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.853
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.853
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.853
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.853
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.853
+		]
+	],
+	"3082": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.839
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.839
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.839
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.839
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.839
+		]
+	],
+	"3085": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.895
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.895
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.895
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.895
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.895
+		]
+	],
+	"3088": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.833
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.833
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.833
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.833
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.833
+		]
+	],
+	"3091": [
+		[
+			"E",
+			"PangolinGD",
+			0.789
+		]
+	],
+	"3094": [
+		[
+			"E",
+			"PangolinGD",
+			0.775
+		]
+	],
+	"3097": [
+		[
+			"E",
+			"PangolinGD",
+			0.787
+		]
+	],
+	"3100": [
+		[
+			"E",
+			"PangolinGD",
+			0.794
+		]
+	],
+	"3103": [
+		[
+			"E",
+			"PangolinGD",
+			0.79
+		]
+	],
+	"3106": [
+		[
+			"E",
+			"PangolinGD",
+			0.715
+		]
+	],
+	"3109": [
+		[
+			"E",
+			"PangolinGD",
+			0.705
+		]
+	],
+	"3112": [
+		[
+			"E",
+			"PangolinGD",
+			0.635
+		]
+	],
+	"3115": [
+		[
+			"E",
+			"PangolinGD",
+			0.644
+		]
+	],
+	"3118": [
+		[
+			"E",
+			"PangolinGD",
+			0.642
+		]
+	],
+	"3121": [
+		[
+			"E",
+			"PangolinGD",
+			0.43899999999999995
+		]
+	],
+	"3124": [
+		[
+			"E",
+			"PangolinGD",
+			0.34583333333333327
+		]
+	],
+	"3127": [
+		[
+			"E",
+			"PangolinGD",
+			0.38833333333333336
+		]
+	],
+	"3130": [
+		[
+			"E",
+			"PangolinGD",
+			0.3941666666666666
+		]
+	],
+	"3133": [
+		[
+			"E",
+			"PangolinGD",
+			0.357
+		]
+	],
+	"3136": [
+		[
+			"E",
+			"PangolinGD",
+			0.619
+		]
+	],
+	"3139": [
+		[
+			"E",
+			"PangolinGD",
+			0.651
+		]
+	],
+	"3142": [
+		[
+			"E",
+			"PangolinGD",
+			0.546
+		]
+	],
+	"3145": [
+		[
+			"E",
+			"PangolinGD",
+			0.39299999999999996
+		]
+	],
+	"3148": [
+		[
+			"E",
+			"PangolinGD",
+			0.30933333333333335
+		]
+	],
+	"3151": [
+		[
+			"E",
+			"PangolinGD",
+			0.30533333333333335
+		]
+	],
+	"3154": [
+		[
+			"E",
+			"PangolinGD",
+			0.40837499999999993
+		]
+	],
+	"3157": [
+		[
+			"E",
+			"PangolinGD",
+			0.5285
+		]
+	],
+	"3160": [
+		[
+			"E",
+			"PangolinGD",
+			0.5655714285714285
+		]
+	],
+	"3163": [
+		[
+			"E",
+			"PangolinGD",
+			0.542
+		]
+	],
+	"3166": [
+		[
+			"E",
+			"PangolinGD",
+			0.632
+		]
+	],
+	"3169": [
+		[
+			"E",
+			"PangolinGD",
+			0.733
+		]
+	],
+	"3172": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.805
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.805
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.805
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.805
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.805
+		]
+	],
+	"3175": [
+		[
+			"E",
+			"PangolinGD",
+			0.649
+		]
+	],
+	"3178": [
+		[
+			"E",
+			"PangolinGD",
+			0.659
+		]
+	],
+	"3181": [
+		[
+			"E",
+			"PangolinGD",
+			0.643
+		]
+	],
+	"3184": [
+		[
+			"E",
+			"PangolinGD",
+			0.736
+		]
+	],
+	"3187": [
+		[
+			"E",
+			"PangolinGD",
+			0.747
+		]
+	],
+	"3190": [
+		[
+			"E",
+			"PangolinGD",
+			0.9549999999999998
+		]
+	],
+	"3193": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.9
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.9
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.9
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.9
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.9
+		]
+	],
+	"3196": [
+		[
+			"V",
+			"Pangolin/GX/P4L",
+			0.802
+		],
+		[
+			"V",
+			"Pangolin/GX/P1E",
+			0.802
+		],
+		[
+			"V",
+			"Pangolin/GX/P5L",
+			0.802
+		],
+		[
+			"V",
+			"Pangolin/GX/P5E",
+			0.802
+		],
+		[
+			"V",
+			"Pangolin/GX/P2V",
+			0.802
+		]
+	],
+	"3199": [
+		[
+			"E",
+			"PangolinGD",
+			0.6335000000000001
+		]
+	],
+	"3202": [
+		[
+			"E",
+			"PangolinGD",
+			0.616
+		]
+	],
+	"3205": [
+		[
+			"E",
+			"PangolinGD",
+			0.619
+		]
+	],
+	"3208": [
+		[
+			"E",
+			"PangolinGD",
+			0.561
+		]
+	],
+	"3211": [
+		[
+			"E",
+			"PangolinGD",
+			0.38087499999999996
+		]
+	],
+	"3214": [
+		[
+			"E",
+			"PangolinGD",
+			0.365
+		]
+	],
+	"3217": [
+		[
+			"E",
+			"PangolinGD",
+			0.3933333333333333
+		]
+	],
+	"3220": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3223": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3226": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3229": [
+		[
+			"E",
+			"PangolinGD",
+			0.385
+		]
+	],
+	"3232": [
+		[
+			"E",
+			"PangolinGD",
+			0.3491666666666666
+		]
+	],
+	"3235": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3238": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3241": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3244": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3247": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3250": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3253": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3256": [
+		[
+			"E",
+			"PangolinGD",
+			0.35916666666666663
+		]
+	],
+	"3259": [
+		[
+			"E",
+			"PangolinGD",
+			0.35916666666666663
+		]
+	],
+	"3262": [
+		[
+			"E",
+			"PangolinGD",
+			0.3475
+		]
+	],
+	"3265": [
+		[
+			"E",
+			"PangolinGD",
+			0.3475
+		]
+	],
+	"3268": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3271": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3274": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3277": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3280": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3283": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3286": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3289": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3292": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3295": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3298": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3301": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3304": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3307": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3310": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3313": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3316": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3319": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3322": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3325": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3328": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3331": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3334": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3337": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3340": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3343": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3346": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3349": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3352": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3355": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3358": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3361": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3364": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3367": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3370": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3373": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3376": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3379": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3382": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3385": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3388": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3391": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3394": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3397": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3400": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3403": [
+		[
+			"E",
+			"PangolinGD",
+			0.308
+		]
+	],
+	"3406": [
+		[
+			"E",
+			"PangolinGD",
+			0.296
+		]
+	],
+	"3409": [
+		[
+			"E",
+			"PangolinGD",
+			0.3173333333333333
+		]
+	],
+	"3412": [
+		[
+			"E",
+			"PangolinGD",
+			0.382
+		]
+	],
+	"3415": [
+		[
+			"E",
+			"PangolinGD",
+			0.29533333333333334
+		]
+	],
+	"3418": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3421": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3424": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3427": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3430": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3433": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3436": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3439": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3442": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3445": [
+		[
+			"E",
+			"PangolinGD",
+			0.3153333333333333
+		]
+	],
+	"3448": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3451": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3454": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3457": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3460": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3463": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3466": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3469": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3472": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3475": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3478": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3481": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3484": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3487": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3490": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3493": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3496": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3499": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3502": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3505": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3508": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3511": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3514": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3517": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3520": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3523": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3526": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3529": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3532": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3535": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3538": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3541": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3544": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3547": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3550": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3553": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3556": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3559": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3562": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3565": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3568": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3571": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3574": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3577": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3580": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3583": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3586": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3589": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3592": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3595": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3598": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3601": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3604": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3607": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3610": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3613": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3616": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3619": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3622": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3625": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3628": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3631": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3634": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3637": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3640": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3643": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3646": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3649": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3652": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3655": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3658": [
+		[
+			"E",
+			"PangolinGD",
+			0.0
+		]
+	],
+	"3661": [
+		[
+			"E",
+			"PangolinGD",
+			0.226
+		]
+	]
+}

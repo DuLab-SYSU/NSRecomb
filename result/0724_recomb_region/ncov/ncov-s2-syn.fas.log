@@ -1,0 +1,321 @@
+IQ-TREE multicore version 2.0.6 for Linux 64-bit built May 30 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    dulab15 (AVX2, FMA3, 38 GB RAM)
+Command: iqtree2 -s ncov-s2-syn.fas -B 1000 --date acc2year.txt -o NC_014470 --date-ci 100 -redo
+Seed:    606815 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 24 17:52:26 2020
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file ncov-s2-syn.fas ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 53 sequences with 161 columns, 160 distinct patterns
+149 parsimony-informative, 7 singleton sites, 5 constant sites
+                Gap/Ambiguity  Composition  p-value
+   1  EPI_ISL_402125    0.00%    passed     89.02%
+   2  EPI_ISL_402132    0.00%    passed     89.02%
+   3  EPI_ISL_403930    0.00%    passed     89.02%
+   4  EPI_ISL_406798    0.00%    passed     89.02%
+   5  EPI_ISL_412977   11.80%    passed     75.52%
+   6  MN996532          0.00%    passed     64.04%
+   7  MT121216          0.00%    passed     11.58%
+   8  MG772933         11.80%    passed     39.57%
+   9  MG772934         11.80%    passed     51.80%
+  10  MT072864          0.62%    passed     76.67%
+  11  MT040336          0.00%    passed     75.53%
+  12  MT040335          0.00%    passed     75.53%
+  13  MT040334          1.24%    passed     77.50%
+  14  MT040333          0.00%    passed     75.53%
+  15  KC881005          0.62%    passed     26.08%
+  16  KY417144          0.62%    passed     26.08%
+  17  KC881006          0.62%    passed     30.97%
+  18  MK211376          0.62%    passed     74.20%
+  19  MK211378         11.80%    passed     95.69%
+  20  KY417142         11.80%    passed     86.33%
+  21  KY417151          0.62%    passed     74.60%
+  22  KY417146          0.62%    passed     32.53%
+  23  KY417149         11.80%    passed     93.62%
+  24  KY417143         11.80%    passed     86.57%
+  25  KY417150          0.62%    passed     30.97%
+  26  KT444582          0.62%    passed     30.97%
+  27  KY417148         11.18%    passed     62.06%
+  28  KY417147         11.80%    passed     93.62%
+  29  KJ473816         11.80%    passed     32.88%
+  30  KY417145         11.80%    passed     84.01%
+  31  MK211375         11.18%    passed     61.93%
+  32  FJ588686         11.80%    passed     93.62%
+  33  AY502924          0.62%    passed     80.09%
+  34  AY864806          0.62%    passed     80.09%
+  35  AY572035          0.62%    passed     83.19%
+  36  AY390556          0.62%    passed     80.09%
+  37  KP886808         11.80%    passed     80.22%
+  38  KP886809         11.80%    passed     80.22%
+  39  KJ473815         11.18%    passed     96.78%
+  40  DQ071615         11.80%    passed     38.80%
+  41  JX993988         11.80%    passed      7.43%
+  42  KF569996          0.62%    passed     44.73%
+  43  MK211374         11.18%    passed     27.73%
+  44  DQ412042         11.80%    passed     29.39%
+  45  DQ648856         11.80%    passed     44.94%
+  46  KJ473812         11.80%    passed     26.84%
+  47  KJ473813         11.80%    passed     26.84%
+  48  KJ473811         11.80%    passed     46.61%
+  49  JX993987         11.80%    passed     22.71%
+  50  DQ412043         11.80%    passed     42.95%
+  51  KJ473814         11.18%    passed     39.49%
+  52  KF294457         11.18%    passed     98.59%
+  53  NC_014470         3.11%    passed     51.77%
+****  TOTAL             6.41%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: EPI_ISL_402132 is identical to EPI_ISL_402125 but kept for subsequent analysis
+NOTE: MT040335 is identical to MT040336 but kept for subsequent analysis
+NOTE: KY417144 is identical to KC881005 but kept for subsequent analysis
+NOTE: KY417150 is identical to KC881006 but kept for subsequent analysis
+NOTE: AY864806 is identical to AY502924 but kept for subsequent analysis
+NOTE: KP886809 is identical to KP886808 but kept for subsequent analysis
+NOTE: KJ473813 is identical to KJ473812 but kept for subsequent analysis
+NOTE: 5 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: EPI_ISL_403930 (identical to EPI_ISL_402125) is ignored but added at the end
+NOTE: EPI_ISL_406798 (identical to EPI_ISL_402125) is ignored but added at the end
+NOTE: MT040333 (identical to MT040336) is ignored but added at the end
+NOTE: KT444582 (identical to KC881006) is ignored but added at the end
+NOTE: AY390556 (identical to AY502924) is ignored but added at the end
+Alignment was printed to ncov-s2-syn.fas.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to ncov-s2-syn.fas.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.002 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3557.525
+2. Current log-likelihood: -3553.002
+3. Current log-likelihood: -3548.468
+4. Current log-likelihood: -3543.915
+5. Current log-likelihood: -3539.343
+6. Current log-likelihood: -3461.530
+7. Current log-likelihood: -3454.896
+Optimal log-likelihood: -3453.700
+Rate parameters:  A-C: 3.60102  A-G: 95.27606  A-T: 19.28108  C-G: 10.18326  C-T: 94.88777  G-T: 1.00000
+Base frequencies:  A: 0.260  C: 0.153  G: 0.114  T: 0.473
+Proportion of invariable sites: 0.000
+Gamma shape alpha: 1.671
+Parameters optimization took 7 rounds (0.114 sec)
+Time for fast ML tree search: 0.175 seconds
+
+NOTE: ModelFinder requires 3 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 161) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         3512.888     101 7227.776     7576.996     7538.998
+  2  GTR+F+I       3507.336     102 7218.673     7580.948     7532.976
+  3  GTR+F+G4      3453.214     102 7110.429     7472.705     7424.732
+  4  GTR+F+I+G4    3453.181     103 7112.362     7488.222     7429.747
+  5  GTR+F+R2      3459.566     103 7125.131     7500.991     7442.516
+  6  GTR+F+R3      3450.941     105 7111.883     7516.610     7435.430
+  7  GTR+F+R4      3450.974     107 7115.949     7552.024     7445.659
+ 16  SYM+G4        3586.883     99  7371.765     7696.355     7676.824
+ 17  SYM+I+G4      3586.883     100 7373.765     7710.432     7681.906
+ 29  TVM+F+G4      3453.250     101 7108.500     7457.720     7419.722
+ 30  TVM+F+I+G4    3453.231     102 7110.463     7472.739     7424.766
+ 42  TVMe+G4       3588.030     98  7372.061     7685.029     7674.038
+ 43  TVMe+I+G4     3588.033     99  7374.066     7698.656     7679.125
+ 55  TIM3+F+G4     3460.847     100 7121.693     7458.360     7429.834
+ 56  TIM3+F+I+G4   3460.042     101 7122.085     7471.305     7433.307
+ 68  TIM3e+G4      3630.526     97  7455.053     7756.831     7753.949
+ 69  TIM3e+I+G4    3630.527     98  7457.054     7770.022     7759.032
+ 81  TIM2+F+G4     3457.284     100 7114.567     7451.234     7422.708
+ 82  TIM2+F+I+G4   3457.254     101 7116.509     7465.729     7427.730
+ 94  TIM2e+G4      3622.612     97  7439.223     7741.001     7738.119
+ 95  TIM2e+I+G4    3622.612     98  7441.223     7754.191     7743.201
+107  TIM+F+G4      3454.754     100 7109.509     7446.175     7417.649
+108  TIM+F+I+G4    3454.708     101 7111.415     7460.636     7422.637
+120  TIMe+G4       3616.066     97  7426.132     7727.910     7725.029
+121  TIMe+I+G4     3616.066     98  7428.132     7741.100     7730.109
+133  TPM3u+F+G4    3460.930     99  7119.861     7444.451     7424.920
+134  TPM3u+F+I+G4  3460.052     100 7120.104     7456.771     7428.245
+146  TPM3+F+G4     3460.930     99  7119.861     7444.451     7424.920
+147  TPM3+F+I+G4   3460.052     100 7120.104     7456.771     7428.245
+159  TPM2u+F+G4    3457.497     99  7112.994     7437.584     7418.053
+160  TPM2u+F+I+G4  3457.409     100 7114.818     7451.485     7422.959
+172  TPM2+F+G4     3457.497     99  7112.994     7437.584     7418.053
+173  TPM2+F+I+G4   3457.409     100 7114.818     7451.485     7422.959
+185  K3Pu+F+G4     3454.881     99  7107.761     7432.351     7412.820
+186  K3Pu+F+I+G4   3454.813     100 7109.625     7446.292     7417.766
+198  K3P+G4        3617.655     96  7427.310     7718.310     7723.125
+199  K3P+I+G4      3617.654     97  7429.309     7731.086     7728.205
+211  TN+F+G4       3463.878     99  7125.756     7450.346     7430.815
+212  TN+F+I+G4     3463.155     100 7126.310     7462.977     7434.451
+224  TNe+G4        3659.454     96  7510.908     7801.908     7806.722
+225  TNe+I+G4      3659.454     97  7512.908     7814.686     7811.804
+237  HKY+F+G4      3463.995     98  7123.989     7436.957     7425.967
+238  HKY+F+I+G4    3463.155     99  7124.310     7448.900     7429.369
+250  K2P+G4        3661.074     95  7512.149     7792.764     7804.882
+251  K2P+I+G4      3661.072     96  7514.144     7805.144     7809.959
+263  F81+F+G4      3747.905     97  7689.810     7991.587     7988.706
+264  F81+F+I+G4    3747.092     98  7690.184     8003.152     7992.162
+276  JC+G4         3849.744     94  7887.488     8158.094     8177.140
+277  JC+I+G4       3849.729     95  7889.457     8170.073     8182.191
+Akaike Information Criterion:           K3Pu+F+G4
+Corrected Akaike Information Criterion: K3Pu+F+G4
+Bayesian Information Criterion:         K3Pu+F+G4
+Best-fit model: K3Pu+F+G4 chosen according to BIC
+
+All model information printed to ncov-s2-syn.fas.model.gz
+CPU time for ModelFinder: 2.041 seconds (0h:0m:2s)
+Wall-clock time for ModelFinder: 2.041 seconds (0h:0m:2s)
+Generating 1000 samples for ultrafast bootstrap (seed: 606815)...
+
+NOTE: 1 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3454.881
+Optimal log-likelihood: -3454.873
+Rate parameters:  A-C: 1.00000  A-G: 52.07724  A-T: 9.06604  C-G: 9.06604  C-T: 52.07724  G-T: 1.00000
+Base frequencies:  A: 0.260  C: 0.153  G: 0.114  T: 0.473
+Gamma shape alpha: 1.552
+Parameters optimization took 1 rounds (0.005 sec)
+Computing ML distances based on estimated model parameters... 0.029 sec
+Computing BIONJ tree...
+0.001 seconds
+Log-likelihood of BIONJ tree: -3452.893
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.173 second
+Computing log-likelihood of 98 initial trees ... 0.150 seconds
+Current best score: -3452.893
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3449.557
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -3448.341
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 7: -3448.281
+Iteration 10 / LogL: -3451.299 / Time: 0h:0m:0s
+Iteration 20 / LogL: -3448.342 / Time: 0h:0m:1s
+Finish initializing candidate tree set (20)
+Current best tree score: -3448.281 / CPU time: 1.513
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+BETTER TREE FOUND at iteration 22: -3448.281
+Iteration 30 / LogL: -3448.737 / Time: 0h:0m:2s (0h:0m:6s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 33: -3448.178
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 37: -3447.859
+Iteration 40 / LogL: -3448.191 / Time: 0h:0m:2s (0h:0m:6s left)
+BETTER TREE FOUND at iteration 44: -3447.859
+Iteration 50 / LogL: -3450.613 / Time: 0h:0m:3s (0h:0m:6s left)
+Log-likelihood cutoff on original alignment: -3476.077
+BETTER TREE FOUND at iteration 55: -3447.859
+Iteration 60 / LogL: -3447.859 / Time: 0h:0m:3s (0h:0m:6s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 65: -3447.603
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 67: -3447.475
+Iteration 70 / LogL: -3447.960 / Time: 0h:0m:4s (0h:0m:6s left)
+Iteration 80 / LogL: -3495.489 / Time: 0h:0m:5s (0h:0m:5s left)
+Iteration 90 / LogL: -3447.602 / Time: 0h:0m:5s (0h:0m:4s left)
+Iteration 100 / LogL: -3447.475 / Time: 0h:0m:6s (0h:0m:4s left)
+Log-likelihood cutoff on original alignment: -3474.212
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.986
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -3447.475 / Time: 0h:0m:6s (0h:0m:5s left)
+Iteration 120 / LogL: -3447.602 / Time: 0h:0m:7s (0h:0m:5s left)
+Iteration 130 / LogL: -3447.475 / Time: 0h:0m:8s (0h:0m:4s left)
+Iteration 140 / LogL: -3451.427 / Time: 0h:0m:8s (0h:0m:3s left)
+Iteration 150 / LogL: -3447.477 / Time: 0h:0m:9s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -3474.212
+Iteration 160 / LogL: -3450.049 / Time: 0h:0m:9s (0h:0m:2s left)
+Iteration 170 / LogL: -3450.392 / Time: 0h:0m:10s (0h:0m:1s left)
+Iteration 180 / LogL: -3453.174 / Time: 0h:0m:11s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -3447.475
+Iteration 190 / LogL: -3447.475 / Time: 0h:0m:11s (0h:0m:0s left)
+Iteration 200 / LogL: -3447.475 / Time: 0h:0m:12s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3474.212
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+TREE SEARCH COMPLETED AFTER 200 ITERATIONS / Time: 0h:0m:12s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3447.475
+Optimal log-likelihood: -3447.474
+Rate parameters:  A-C: 1.00000  A-G: 27.19959  A-T: 4.28114  C-G: 4.28114  C-T: 27.19959  G-T: 1.00000
+Base frequencies:  A: 0.260  C: 0.153  G: 0.114  T: 0.473
+Gamma shape alpha: 1.928
+Parameters optimization took 1 rounds (0.004 sec)
+BEST SCORE FOUND : -3447.474
+Creating bootstrap support values...
+Split supports printed to NEXUS file ncov-s2-syn.fas.splits.nex
+Total tree length: 15.224
+
+Total number of iterations: 200
+CPU time used for tree search: 12.412 sec (0h:0m:12s)
+Wall-clock time used for tree search: 12.425 sec (0h:0m:12s)
+Total CPU time used: 12.537 sec (0h:0m:12s)
+Total wall-clock time used: 12.549 sec (0h:0m:12s)
+
+Computing bootstrap consensus tree...
+Reading input file ncov-s2-syn.fas.splits.nex...
+48 taxa and 477 splits.
+Consensus tree written to ncov-s2-syn.fas.contree
+Reading input trees file ncov-s2-syn.fas.contree
+Log-likelihood of consensus tree: -3447.927
+
+Analysis results written to: 
+  IQ-TREE report:                ncov-s2-syn.fas.iqtree
+  Maximum-likelihood tree:       ncov-s2-syn.fas.treefile
+  Likelihood distances:          ncov-s2-syn.fas.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          ncov-s2-syn.fas.splits.nex
+  Consensus tree:                ncov-s2-syn.fas.contree
+  Screen log file:               ncov-s2-syn.fas.log
+
+--- Start phylogenetic dating ---
+Reading date file acc2year.txt ...
+53 dates extracted
+Building time tree by least-square dating (LSD) with command:
+lsd -i ncov-s2-syn.fas.timetree.subst -s 161 -o ncov-s2-syn.fas.timetree -f 100 -g ncov-s2-syn.fas.timetree.outgroup -d ncov-s2-syn.fas.timetree.date 
+Reroot the tree 1 using given outgroups ...
+
+TREE 1
+*PROCESSING:
+Reading the tree ... 
+Collapse 11 (over 52) internal branches having branch length <= 0.00311
+ (settable via option -l)
+Parameter to adjust variances was set to 0.14 (settable via option -b)
+Minimum branch length of time scaled tree (settable via option -u and -U): 0.0329,
+ rounded to 0.0329 (12 days/365) using factor 365 (settable via option -R)
+Estimating the root position on the branch defined by given outgroups ...
+Computing confidence intervals using sequence length 161 and a lognormal
+ relaxed clock with mean 1, standard deviation 0.2 (settable via option -q)
+*WARNINGS:
+- 21.1538% internal branches were collapsed.
+*RESULTS:
+- Dating results:
+ rate 0.00142463, tMRCA 1245.52
+- Results with confidence intervals:
+ rate 0.00142463 [1e-10; 0.00433514], tMRCA 1245.52 [-1.15401e+10; 1765.75]
+
+TOTAL ELAPSED TIME: 0.0162 seconds
+LSD results written to:
+  LSD report:                  ncov-s2-syn.fas.timetree.lsd
+  Time tree in nexus format:   ncov-s2-syn.fas.timetree.nex
+  Time tree in newick format:  ncov-s2-syn.fas.timetree.nwk
+
+--- End phylogenetic dating ---
+Date and Time: Fri Jul 24 17:52:41 2020

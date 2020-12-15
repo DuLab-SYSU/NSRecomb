@@ -1,0 +1,47 @@
+
+LEAST-SQUARE METHODS TO ESTIMATE RATES AND DATES - v.1.8.1 
+
+
+Input files:
+  i                                               Input tree file : ncov-s2-syn.fas.timetree.subst
+  d                                               Input date file : ncov-s2-syn.fas.timetree.date
+  p                                                Partition file : No
+Output file:
+  o                                                  Output file  : ncov-s2-syn.fas.timetree
+Parameters:
+  c                                              With constraints : Yes
+  t                                      Lower bound for the rate : 1e-10
+  v                                                With variances : Yes, use variances based on input branch lengths
+  b                              Adjusted parameter for variances : To estimate
+  r                                             Estimate the root : On the branch given by the outgroups
+  w                                       Given substitution rate : No
+  g                                       File contains outgroups : ncov-s2-syn.fas.timetree.outgroup
+  G                       Remove outgroups in the estimating tree : No
+  n                                             Multiple data set : No
+  f                                  Compute confidence intervals : Yes, sampling 100 times
+  q                  Standard deviation of lognormal relaxed clock: 0.2 (for computing confidence intervals)
+  s                                               Sequence length : 161
+  e                                          Exclude outlier tips : No
+  u                Min internal branch length of time scaled tree : To estimate
+  R     Rounding number for min branch length of time scaled tree : To guess
+  U                Min external branch length of time scaled tree : To estimate
+  l                        Collapsed internal branch length limit : 0.00310559
+  D                                            Output date format : Based on input date format
+
+  h to print Help 
+  y to accept or type a letter to change an option (x = Exit) 
+Tree 1 
+Parameter to adjust variances was set to 0.140433 (settable via option -b)
+Minimum branch length of time scaled tree (settable via option -u and -U): 0.0328927,
+ rounded to 0.0328767 (12/365) using factor 365 (settable via option -R)
+*WARNINGS:
+- 21.1538% internal branches were collapsed.
+*RESULTS:
+- Dating results:
+ rate 0.00142463, tMRCA 1245.52
+- Results with confidence intervals:
+ rate 0.00142463 [1e-10; 0.00433514], tMRCA 1245.52 [-1.15401e+10; 1765.75]
+
+*********************************************************
+
+TOTAL ELAPSED TIME: 0.016214 seconds
