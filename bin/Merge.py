@@ -14,9 +14,7 @@ def unify(data):
     for k, v in data.items():
         for v_i in v:
             idx.append(k)
-            res.append(v)
-
-    querys, backbones, subjects, bs_values, dS1, dS2 = *zip(res)
+            res.append(v_i)
     return idx, res
 
 
