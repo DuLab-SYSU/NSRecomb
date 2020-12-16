@@ -35,7 +35,7 @@ def window_i(start, end, query, backbone,
     except Exception as e:
         print(str(e))
         print("Start site ", start)
-        return (start, ['NA'])
+        return (start, ['NA']*6)
 
 
 def get_bounds(sequence_length, window_size, step):
