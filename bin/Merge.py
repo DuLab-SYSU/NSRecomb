@@ -161,9 +161,9 @@ def parse_result(_in, backbone, offset=251, length_threshold=199, log=False, plo
 
 
 if __name__ == "__main__":
-    job_list = ['SARS-CoV-2', 'RmYN02', 'RaTG13', 'PangolinGD', 'PangolinGX']
     backbone_list = ['EPI_ISL_412977', 'MN996532', 'MT121216', 'MT072864', 'MG772933']
     ss_ = ['SARS-CoV-2', 'RmYN02', 'RaTG13', 'PangolinGD', 'PangolinGX', 'BatSL', 'SARSr-CoVs', 'SARS']
+    job_list = ['SARS-CoV-2', 'RmYN02', 'RaTG13', 'PangolinGD', 'PangolinGX']
     seq_length = [[0, 21291, 3822, 228, 669],
                   [0, 21285, 3684, 228, 666],
                   [0, 21288, 3810, 231, 666],
@@ -203,13 +203,18 @@ if __name__ == "__main__":
         par1 = host.twinx()
 
         host.set_ylim([0, 1.5])
+        if idx != 4:
+            host.set_xticks([])
+            host.set_xlabel('')
+        else:
+            host.set_xticks(range(0, 30001, 5000))
+            host.set_xticklabels([0, 5000, 10000, 15000, 20000, 25000, 30000])
+            host.set_xlabel('Site')
         if idx == 2:
             host.set_ylabel('Bootstrap support')
             par1.set_ylabel('dS')
 
-        host.set_xlabel('Site')
-
-        host.axhline(y=0.8, linestyle='--', color='r', alpha=0.8)
+        host.axhline(y=0.8, linestyle='--', color='r', alpha=0.8, linewidth=0.5)
         # host.scatter(x=cum_seq_length[1:], y=[1.1]*4, s=1)
 
         for df, fragments in [(df1, fragments1), (df2, fragments2), (df3, fragments3), (df4, fragments4), (df5, fragments5)]:
@@ -229,12 +234,9 @@ if __name__ == "__main__":
                 min_, max_ = zip(*v)
                 tmp = host.hlines(y=[1.1]*len(min_), xmin=min_, xmax=max_,
                                   label=k, color=color_map[k], linewidth=3)
-                if count == 4:
-                    plt.xticklabels('')
                 count += 1
 
-        host.text(-1000, 2, 'Query: %s Backbone: %s' %
-                  (ss_[idx], ss_[idx+1]), )
+        host.text(-1000, 1.55, 'Query: %s Backbone: %s' % (ss_[idx], ss_[idx+1]), )
 
     custom_lines = []
     for s_ in ss_:

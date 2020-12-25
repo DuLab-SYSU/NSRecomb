@@ -15,7 +15,7 @@ import subprocess
 
 
 def get_hits(query_i,
-             db='db/test',
+             db='../db/test',
              negative_seqidlist='../sample/q.acc',
              outfmt=5,
              task='blastn',
@@ -45,7 +45,7 @@ def get_hits(query_i,
     return best_hits
 
 
-def _get_backbone(query, db='db/test', negative_seqidlist='../sample/q.acc'):
+def _get_backbone(query, db='../db/test', negative_seqidlist='../sample/q.acc'):
     blastn_client = NcbiblastnCommandline(
         db=db,
         outfmt=5,
@@ -102,10 +102,10 @@ if __name__ == '__main__':
     query = SeqIO.read('../sample/query', 'fasta')
     query_i = query[0: 501]
 
-    backbone = _get_backbone(query, db='db/test', negative_seqidlist='../sample/q.acc')
+    backbone = _get_backbone(query, db='../db/test', negative_seqidlist='../sample/q.acc')
     backbone_i = get_backbone(query_i, backbone)
     hits = get_hits(query_i,
-                    db='db/test',
+                    db='../db/test',
                     negative_seqidlist='../sample/q.acc',
                     outfmt=5,
                     task='blastn',

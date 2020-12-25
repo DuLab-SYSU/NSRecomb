@@ -49,8 +49,8 @@ def get_bounds(sequence_length, window_size, step):
 @execute_time
 def parallel(cpu_num, func, n_step, query, backbone,
              window_size=501,
-             db='db/test',
-             negative_seqidlist='q.acc'):
+             db='../db/test',
+             negative_seqidlist='../sample/q.acc'):
     print('# Number of CPUs:', cpu_num)
     p = Pool(cpu_num)
     res_l = []
@@ -128,7 +128,7 @@ if __name__ == '__main__':
     QUERY = args.query
     BACKBONE = args.backbone
     NEGATIVE_SEQIDLIST = args.negative_seqidlist
-    DATABASE = args.database
+    DATABASE = '../db/' + args.database
     WINDOW_SIZA = args.window_size
     STEP = 3
     OUTPUT = args.output

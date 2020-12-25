@@ -2,8 +2,6 @@
 
 This project was designed to explore the recombintaion events during the evolution of *Coronavirus*.
 
-The final purpose is to generate the ARG process.
-
 ## Framework
 
 - Main.py

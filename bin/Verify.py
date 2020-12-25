@@ -102,13 +102,13 @@ if __name__ == "__main__":
     import BlastTools
 
     query = SeqIO.read('../sample/query', 'fasta')
-    backbone = BlastTools._get_backbone(query, db='db/test',
+    backbone = BlastTools._get_backbone(query, db='../db/test',
                                         negative_seqidlist='../sample/q.acc')
 
     query_i = query[5: 506]
     backbone_i = BlastTools.get_backbone(query_i, backbone)
     hits = BlastTools.get_hits(query_i,
-                               db='db/test',
+                               db='../db/test',
                                negative_seqidlist='../sample/q.acc',
                                outfmt=5,
                                task='blastn',
