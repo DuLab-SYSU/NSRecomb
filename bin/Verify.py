@@ -74,7 +74,7 @@ def kaks(query_i, backbone_i, sbjct_i, method='LWL'):
     kk.flush()
     kaks_result = kk.read()
     kk.close()
-    # print(kaks_result)
+    print(kaks_result)
     return _parse_kaks_result(kaks_result)
 
 
@@ -101,15 +101,15 @@ def bootstrap(query_i, backbone_i, sbjct_i, sample_size=1000):
 if __name__ == "__main__":
     import BlastTools
 
-    query = SeqIO.read('../sample/query', 'fasta')
-    backbone = BlastTools._get_backbone(query, db='../db/test',
-                                        negative_seqidlist='../sample/q.acc')
+    query = SeqIO.read('../data/RmYN02_S.fasta', 'fasta')
+    backbone = BlastTools._get_backbone(query, db='../db/all-cov',
+                                        negative_seqidlist='../data/RmYN02.acc')
 
-    query_i = query[5: 506]
+    query_i = query[1002: 1503]
     backbone_i = BlastTools.get_backbone(query_i, backbone)
     hits = BlastTools.get_hits(query_i,
-                               db='../db/test',
-                               negative_seqidlist='../sample/q.acc',
+                               db='../db/all-cov',
+                               negative_seqidlist='../data/RmYN02.acc',
                                outfmt=5,
                                task='blastn',
                                qcov_hsp_perc=70)

@@ -200,7 +200,7 @@ if __name__ == "__main__":
                                        backbone, offset=cum_seq_length[4], length_threshold=6, plot=False, log=True)
 
         host = axs[idx+1]
-        par1 = host.twinx()
+        # par1 = host.twinx()
 
         host.set_ylim([0, 1.5])
         if idx != 4:
@@ -212,18 +212,18 @@ if __name__ == "__main__":
             host.set_xlabel('Site')
         if idx == 2:
             host.set_ylabel('Bootstrap support')
-            par1.set_ylabel('dS')
+            # par1.set_ylabel('dS')
 
         host.axhline(y=0.8, linestyle='--', color='r', alpha=0.8, linewidth=0.5)
         # host.scatter(x=cum_seq_length[1:], y=[1.1]*4, s=1)
 
         for df, fragments in [(df1, fragments1), (df2, fragments2), (df3, fragments3), (df4, fragments4), (df5, fragments5)]:
-            p1, = host.plot(df.site2, df.bs_value, label='Bootstrap support',
+            p1, = host.plot(df.site2+251, df.bs_value, label='Bootstrap support',
                             color=mcolors['grey'], alpha=0.8, linewidth=0.5)
-            p2, = par1.plot(df.site2, df.ds1, label='dS(query-backbone)',
-                            color=mcolors['skyblue'], alpha=0.8, linewidth=0.5)
-            p3, = par1.plot(df.site2, df.ds2, label='dS(query-subject)',
-                            color=mcolors['bisque'], alpha=0.8, linewidth=0.5)
+            # p2, = par1.plot(df.site2, df.ds1, label='dS(query-backbone)',
+            #                 color=mcolors['skyblue'], alpha=0.8, linewidth=0.5)
+            # p3, = par1.plot(df.site2, df.ds2, label='dS(query-subject)',
+            #                 color=mcolors['bisque'], alpha=0.8, linewidth=0.5)
 
             ss = defaultdict(list)
             for id_, s_, e_, _ in fragments:
@@ -236,7 +236,9 @@ if __name__ == "__main__":
                                   label=k, color=color_map[k], linewidth=3)
                 count += 1
 
-        host.text(-1000, 1.55, 'Query: %s Backbone: %s' % (ss_[idx], ss_[idx+1]), )
+        host.text(-1000, 1.55, 'Query: %s' % (ss_[idx]), )
+        host.text(20000, 1.55, 'Backbone: ')
+        host.text(24000, 1.55, ss_[idx+1], color=color_map[ss_[idx+1]])
 
     custom_lines = []
     for s_ in ss_:
@@ -244,3 +246,4 @@ if __name__ == "__main__":
             Line2D([0], [0], color=color_map[s_], lw=4, label=s_))
     # axs[1].legend(custom_lines, ss_, loc='upper left', bbox_to_anchor=(1.05, 1.2))
     plt.show()
+
