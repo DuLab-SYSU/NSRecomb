@@ -32,16 +32,16 @@ def cal_ds(seq1, seq2):
     return ds
 
 
-def one_window(start, end, query_i, backbone_i, subject_i):
-    query_i = query_i[start: end]
-    backbone_i = backbone_i[start: end]
-    subject_i = subject_i[start: end]
+def one_window(start, end, query, backbone, subject):
+    query_i = query[start: end]
+    backbone_i = backbone[start: end]
+    subject_i = subject[start: end]
     try:
         ds1 = cal_ds(query_i.seq, backbone_i.seq)
         ds2 = cal_ds(query_i.seq, subject_i.seq)
     except Exception:
         print("ERROR,\n%s\n%s\n%s\n" % (query_i.seq, backbone_i.seq, subject_i.seq))
-    bs_value = Verify.bootstrap(query_i, backbone_i, subject_i)
+    bs_value = Verify.bootstrap(query, backbone, subject)
     return start, [query_i.id, backbone_i.id, subject_i.id, bs_value, ds1, ds2]
 
 
