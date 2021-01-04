@@ -1,9 +1,9 @@
 # data file
-data/
+# data/
 sample/
 recombination_task/
 sample/
-result/
+# result/
 simulation/
 bin/db/
 
