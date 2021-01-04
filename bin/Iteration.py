@@ -59,7 +59,7 @@ def _get_bounds(sequence_length, window_size, step=3):
         return n_step + 1
 
 
-def main(out, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backbone=BACKBONE):
+def main(out, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backbone=None):
     query = SeqIO.read(QUERY, 'fasta')
     sequence_length = len(query)
     n_step = _get_bounds(sequence_length, WINDOW_SIZA)
