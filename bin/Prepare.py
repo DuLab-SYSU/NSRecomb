@@ -1,5 +1,6 @@
 import os
-from Bio.Blast.Applications import NcbimakeblastdbCommandline
+import subprocess
+# from Bio.Blast.Applications import NcbimakeblastdbCommandline
 import argparse
 
 
@@ -7,22 +8,24 @@ def build_db(db_fasta, out_db, input_type='fasta'):
     """
     Build local Blast v5 database
     """
-    client = NcbimakeblastdbCommandline(
-        dbtype='nucl',
-        input_file=db_fasta,
-        input_type=input_type,
-        parse_seqids=True, out=out_db
+    subprocess.run(
+        'makeblastdb -dbtype nucl -in %s -input_type %s -parse_seqids -out %s'
+        % (db_fasta, input_type, out_db),
+        shell=True,
+        env={'PATH': '../package/ncbi-blast-2.11.0+/bin'}
     )
-    client()
 
 
 def convert_to_binary(seqid_file_in, seqid_file_out):
     """
     Convert a accession list to binary format
     """
-    command = "blastdb_aliastool -seqid_file_in %s -seqid_file_out %s" \
-              % (seqid_file_in, seqid_file_out)
-    os.system(command)
+    subprocess.run(
+        "blastdb_aliastool -seqid_file_in %s -seqid_file_out %s"
+        % (seqid_file_in, seqid_file_out),
+        shell=True,
+        env={'PATH': '../package/ncbi-blast-2.11.0+/bin'}
+    )
 
 
 if __name__ == '__main__':
@@ -43,8 +46,8 @@ if __name__ == '__main__':
     task = args.task
 
     if task == 2:
-        convert_to_binary(seqid_in_file, seqid_out_file)
+        convert_to_binary(seqid_in_file, '../data/' + seqid_out_file)
     else:
         if not os.path.exists("../db/"):
             os.makedirs("../db/")
-        build_db(db_file, db_name)
+        build_db(db_file, '../db/' + db_name)
