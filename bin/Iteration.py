@@ -51,7 +51,7 @@ def parallel(func, cpu_num, n_step, window_size,
     return results
 
 
-def _get_bounds(sequence_length, window_size, step):
+def _get_bounds(sequence_length, window_size, step=3):
     if sequence_length < window_size:
         return 1
     else:
@@ -59,10 +59,10 @@ def _get_bounds(sequence_length, window_size, step):
         return n_step + 1
 
 
-def main(out='log', _backbone=None):
+def main(out, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backbone=BACKBONE):
     query = SeqIO.read(QUERY, 'fasta')
     sequence_length = len(query)
-    n_step = _get_bounds(sequence_length, WINDOW_SIZA, STEP)
+    n_step = _get_bounds(sequence_length, WINDOW_SIZA)
     print("# Sequence Length: %s, Task counts: %s" % (sequence_length, n_step))
     
     if _backbone:
@@ -91,7 +91,6 @@ if __name__ == '__main__':
     DATABASE = '../db/all-cov'
     NEGATIVE_SEQIDLIST  = '../data/SARS-CoV-2.acc'
     WINDOW_SIZA = 501
-    STEP = 3
     NUM_CPUs = 10
     
     
