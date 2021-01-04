@@ -2,7 +2,21 @@
 
 This project was designed to explore the recombintaion events during the evolution of *Coronavirus*.
 
-## Framework
+## Dependency
+
+- blast+ 2.11.0
+  - query, fasta file, in data directory
+  - database, local fasta file, in data directory --> db directory
+  - negative sequence id lists, in data directory
+  - backbone file, fasta, in data directory
+- KaKs_Calculator 2.0, intergrated in program
+- Mafft 7.475, need to install and specify in the PATH
+- Biopython
+- numpy
+- pandas
+- matplotlib
+
+## Modules
 
 - Main.py
 - Decorator.py
@@ -16,38 +30,44 @@ This project was designed to explore the recombintaion events during the evoluti
 
 ### BlastTools
 
-This module contains 3 functions, `_get_backbone`, `get_backbone` and `get_hits`, respectively.
-`get_backbone` was used to get the corresponding backbone fragment from the backbone sequence.
-`get_hits` was used to get these hits with the highest `score`
+This module was designed to identify the potential recombintaion regions based on the similarity analysis using the representative strain as the query against all other candidate strains.  
+
+Taking the closest lineage from the genomic tree as the backbone (user given or auto set with `get_gene_backbone` function).  
+
+For a specified window covering certain numbers codons, the most similar lineage was identified based on blastn algorithm (`get_hits` function). The coressponding backbone fragments was identified with `get_window_backbone` function.  
 
 ### Verify
 
+This module was designed to test the robustness of the recombination and to exclude the possibility of noise and convergent evolution based on synomous mutation distance and bootstrap method.  
+
+Bootstapping was performed by constructing random sequences (query-backbone-similar triple (`multiseqalign` function)) with the same number of codons through randomly selecting nucleotide triples from the real sequences, and repeated 1000 times. (`bootstrap2` function)  
 
 ### Iteration
 
+This module was the main module to identify recombination regions. Intergrating search phage and verify phage in a `window` function and able to utilize multi cpus.
 
 ### Merge
 
+This module was designed to analysis the log file from the recombination analysis, and merge series of confirmed overlapping recombiation windows to longer regions.  
+
+ATTEINTION: This is only experimental code and can only be used to reproduce the reslts of this study. The general verison will be released in the future verison.  
 
 ### PValue
 
+This module will be designed to given the probaility of the identified recombination region. And will be released in the future verison.  
 
-### Plot
+### Main
 
+Main program body.  
 
-## Design
+### Interface
 
-输入 Query 序列
+GUI interface.  
 
-## Dependency
+## Install & Usage
 
-- blast+ 2.11.0
-  - query, fasta file
-  - database, local fasta file
-  - negative sequence id lists
-  - backbone file, fasta
-- KaKs_Calculator 2.0
-- Mafft 7.475
-- Biopython
-- numpy
-- matplotlib
+``` shell
+git clone https://github.com/DuLab-SYSU/NSRcomb.git
+cd NSRcomb/bin
+python Main.py -db all-cov -q ../data/SARS-CoV-2.ORF1ab.fasta -n ../data/SARS-CoV-2.acc -b ../data/SARS-CoV-2.backbone -o ../result/SARS-CoV-2.ORF1ab.result
+```
