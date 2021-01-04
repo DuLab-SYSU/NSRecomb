@@ -35,15 +35,14 @@ def window(start, end, query, backbone, db, negative_seqidlist, qcov_hsp_perc=70
 
 @execute_time
 def parallel(func, cpu_num, n_step, window_size,
-             query, backbone, db, negative_seqidlist,
-             qcov_hsp_perc=70, bootstrap_threshold=0.8):
+             query, backbone, db, negative_seqidlist):
     print('# Number of CPUs:', cpu_num)
     p = Pool(cpu_num)
     res_l = []
     for i in range(0, n_step):
         start = i * 3
         end = i * 3 + window_size
-        res = p.apply_async(func, args=(start, end, query, backbone, db, negative_seqidlist, qcov_hsp_perc, bootstrap_threshold, ))
+        res = p.apply_async(func, args=(start, end, query, backbone, db, negative_seqidlist, ))
         res_l.append(res)
     p.close()
     p.join()
@@ -79,14 +78,13 @@ def main(out, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backb
                   by your own with switch -b.
                   """)
 
-    results = parallel(window, NUM_CPUs, n_step, WINDOW_SIZA,
-                       query, backbone, db=DATABASE, negative_seqidlist=NEGATIVE_SEQIDLIST, qcov_hsp_perc=70, bootstrap_threshold=0.8)
+    results = parallel(window, NUM_CPUs, n_step, WINDOW_SIZA, query, backbone, db=DATABASE, negative_seqidlist=NEGATIVE_SEQIDLIST)
     with open(out, 'w') as w:
         w.write(json.dumps(results, indent=4, sort_keys=True))
 
 
 if __name__ == '__main__':    
-    QUERY = SeqIO.read('../data/SARS-CoV-2.ORF1ab.fasta', 'fasta')
+    QUERY = SeqIO.read('../data/SARS-CoV-2.S.fasta', 'fasta')
     BACKBONE = SeqIO.read('../data/SARS-CoV-2.backbone', 'fasta')
     DATABASE = '../db/all-cov'
     NEGATIVE_SEQIDLIST  = '../data/SARS-CoV-2.acc'
@@ -94,6 +92,6 @@ if __name__ == '__main__':
     NUM_CPUs = 10
     
     
-    start = 3
+    start = 2160
     res = window(start, start+WINDOW_SIZA, QUERY, BACKBONE, DATABASE, NEGATIVE_SEQIDLIST)
     print(res)
