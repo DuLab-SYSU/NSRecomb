@@ -9,7 +9,6 @@ from Bio.SeqRecord import SeqRecord
 from functools import partial
 
 
-# TODO MAFFT wrapper
 def multiseqalign(query_i, backbone_i, sbjct_i):
     ref_seq = tempfile.NamedTemporaryFile(mode='w+t')
     other_seq = tempfile.NamedTemporaryFile(mode='w+t')
@@ -21,12 +20,13 @@ def multiseqalign(query_i, backbone_i, sbjct_i):
     other_seq.seek(0)
 
     mafft_client = subprocess.run(
-        'mafft --auto --keeplength --addfragments %s %s'
+        './mafft.bat --auto --keeplength --addfragments %s %s'
         % (other_seq.name, ref_seq.name),
         shell=True,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
-        encoding='unicode_escape'
+        encoding='unicode_escape',
+        cwd='../package/mafft-linux64'
     )
 
     msa = SeqIO.parse(StringIO(mafft_client.stdout), "fasta")
