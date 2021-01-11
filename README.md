@@ -70,7 +70,7 @@ GUI interface.
 git clone https://github.com/DuLab-SYSU/NSRcomb.git
 cd NSRcomb/bin
 # CLI
-python Main.py -db all-cov -q ../data/SARS-CoV-2.ORF1ab.fasta -n ../data/SARS-CoV-2.acc -b ../data/SARS-CoV-2.backbone -o ../result/SARS-CoV-2.ORF1ab.result
+python Main.py -db all-cov -q ../data/SARS-CoV-2.ORF1ab.fasta -n ../data/SARS-CoV-2.acc -b ../data/SARS-CoV-2.backbone -o SARS-CoV-2.ORF1ab.result
 #GUI
 python Interface.py
 ```
