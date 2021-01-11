@@ -10,7 +10,7 @@ from Bio import SeqIO
 from multiprocessing import Pool
 
 
-def window(start, end, query, backbone, db, negative_seqidlist, qcov_hsp_perc=70, bootstrap_threshold=0.8):
+def window_codon_bootstrap(start, end, query, backbone, db, negative_seqidlist, qcov_hsp_perc=70, bootstrap_threshold=0.8):
     query_i = query[start: end]
     backbone_i = BlastTools.get_window_backbone(query_i, backbone, qcov_hsp_perc)
 
@@ -31,6 +31,29 @@ def window(start, end, query, backbone, db, negative_seqidlist, qcov_hsp_perc=70
         print(str(e))
         print("Start site ", start)
         return (start, ['NA']*5)
+
+
+def window_site_bootstrap(start, end, query, backbone, db, negative_seqidlist, qcov_hsp_perc=70, bootstrap_threshold=0.8):
+    query_i = query[start: end]
+    backbone_i = BlastTools.get_window_backbone(query_i, backbone, qcov_hsp_perc)
+
+    result = []
+    try:
+        hits = BlastTools.get_hits(query_i, db, negative_seqidlist, qcov_hsp_perc)
+        for hit in hits:
+            triple_align = Verify.multiseqalign(query_i, backbone_i, hit)
+            bs_ident = Verify.bootstrap(*triple_align)
+            ds1, ds2 = Verify._kaks(*triple_align)
+            result.append([query_i.id, backbone_i.id, hit.id, bs_ident, ds1, ds2])
+            if (bs_ident > bootstrap_threshold) and (ds1 > ds2):
+                print("Fragment: %s-%s, (%s-%s-%s), BootStrap Value:  %s, dS(Q-B): %s, dS(Q-S): %s"
+                      % (start, end, query_i.id, backbone_i.id, hit.id, bs_ident, ds1, ds2))
+
+        return (start, result)
+    except Exception as e:
+        print(str(e))
+        print("Start site ", start)
+        return (start, ['NA']*6)
 
 
 @execute_time
@@ -58,7 +81,7 @@ def _get_bounds(sequence_length, window_size, step=3):
         return n_step + 1
 
 
-def main(out, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backbone=None):
+def main(out, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backbone=None, codon_bootstrap=False):
     query = SeqIO.read(QUERY, 'fasta')
     sequence_length = len(query)
     n_step = _get_bounds(sequence_length, WINDOW_SIZA)
@@ -77,8 +100,11 @@ def main(out, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backb
                   Please change your database or specify the backbone
                   by your own with switch -b.
                   """)
-
-    results = parallel(window, NUM_CPUs, n_step, WINDOW_SIZA, query, backbone, db=DATABASE, negative_seqidlist=NEGATIVE_SEQIDLIST)
+    if codon_bootstrap:
+        func = window_codon_bootstrap
+    else:
+        func = window_site_bootstrap
+    results = parallel(func, NUM_CPUs, n_step, WINDOW_SIZA, query, backbone, db=DATABASE, negative_seqidlist=NEGATIVE_SEQIDLIST)
     with open(out, 'w') as w:
         w.write(json.dumps(results, indent=4, sort_keys=True))
 
@@ -92,6 +118,7 @@ if __name__ == '__main__':
     parser.add_argument('--window_size', '-ws', help='Window size', required=False, default=501, type=int)
     parser.add_argument('--num_cpus', '-nc', help='Number of CPUs', required=False, default=10, type=int)
     parser.add_argument('--output', '-o', help='Output file path', required=False, default='log')
+    parser.add_argument('--codon', '-c', help='codon bootstrap', required=False, default=False)
 
     args = parser.parse_args()
 
@@ -103,12 +130,13 @@ if __name__ == '__main__':
     DATABASE = '../db/' + args.database
     WINDOW_SIZA = args.window_size
     NUM_CPUs = args.num_cpus
-    OUTPUT = args.output
+    OUTPUT = '../result/' + args.output
+    CODON = args.codon
 
     if not os.path.exists("../result"):
         os.makedirs("../result")
 
     if not BACKBONE:
-        main(OUTPUT, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA)
+        main(OUTPUT, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, codon_bootstrap=CODON)
     else:
-        main(OUTPUT, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backbone=BACKBONE)
+        main(OUTPUT, QUERY, NEGATIVE_SEQIDLIST, DATABASE, NUM_CPUs, WINDOW_SIZA, _backbone=BACKBONE, codon_bootstrap=CODON)
