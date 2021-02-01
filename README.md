@@ -138,7 +138,7 @@ $ python Main.py -q example/SARS-CoV-2.M.fasta -n example/SARS-CoV-2.id -b examp
 $ python Main.py -q example/SARS-CoV-2.N.fasta -n example/SARS-CoV-2.id -b example/SARS-CoV-2.backbone -db all_cov_unify -ws 501 -s 3 -nc 10 -o SARS-CoV-2.N.result
 ```
 
-Considering that 5 strains were studied here, and that each strain contains 5 cds, we used an additional script to visualize our results. Go to the `example` folder and run the `Merge_ncov.py`.
+Considering that 5 strains were studied here, and that each strain contains 5 cds, we used an additional script to visualize our results. Go to the `example` folder and run the `Merge_ncov.py`. A `SeqIdTitle` file was supplied to map the acc number to strain name.
 
 ```bash
 $ python Merge_ncov.py
