@@ -1,10 +1,12 @@
 # data file
-# example/
-# result/
-simulation/
-db/
-result/
-data/
+simulation/convergent/*
+simulation/norecombinate/*
+simulation/recombinate/*
+simulation/replicates/*
+simulation/result/*
+db/*
+result/*
+data/*
 old/
 
 # vscode

@@ -177,15 +177,15 @@ if __name__ == "__main__":
         backbone = backbone_list[idx]
         cum_seq_length = np.cumsum(seq_length[idx])
 
-        df1, fragments1 = parse_result("../result/%s.ORF1ab.result" % job,
+        df1, fragments1 = parse_result("result/%s.ORF1ab.result" % job,
                                        backbone, offset=cum_seq_length[0], length_threshold=6, plot=False, log=True)
-        df2, fragments2 = parse_result("../result/%s.S.result" % job,
+        df2, fragments2 = parse_result("result/%s.S.result" % job,
                                        backbone, offset=cum_seq_length[1], length_threshold=6, plot=False, log=True)
-        df3, fragments3 = parse_result("../result/%s.E.result" % job,
+        df3, fragments3 = parse_result("result/%s.E.result" % job,
                                        backbone, offset=cum_seq_length[2], length_threshold=6, plot=False, log=True)
-        df4, fragments4 = parse_result("../result/%s.M.result" % job,
+        df4, fragments4 = parse_result("result/%s.M.result" % job,
                                        backbone, offset=cum_seq_length[3], length_threshold=0, plot=False, log=True)
-        df5, fragments5 = parse_result("../result/%s.N.result" % job,
+        df5, fragments5 = parse_result("result/%s.N.result" % job,
                                        backbone, offset=cum_seq_length[4], length_threshold=6, plot=False, log=True)
 
         host = axs[idx+1]
