@@ -1,11 +1,11 @@
 # data file
-# data/
-sample/
-recombination_task/
-sample/
+# example/
 # result/
 simulation/
-bin/db/
+db/
+result/
+data/
+old/
 
 # vscode
 .vscode

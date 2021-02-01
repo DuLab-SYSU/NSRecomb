@@ -1,76 +1,145 @@
-# Recombination Analysis for SARS-CoV-2
+# Recombination identification based on synonymous distances
 
-This project was designed to explore the recombintaion events during the evolution of *Coronavirus*.
+**NSRecomb** is a recombination identifaction pipeline based on synonymous distances for distinguishing the true recombination event from ***convergent evolution***.
+
+*Warning: This pipeline is still in the development stage and only tested in **Linux** system such as `Ubuntu 18.04`. The purpose of the repository is mainly to repeat the article results. If you find any problems in the process when using it, please contact with zengjf7@mail2.sysu.edu.cn.*
 
 ## Dependency
 
-- blast+ 2.11.0
-  - query, fasta file, in data directory
-  - database, local fasta file, in data directory --> db directory
-  - negative sequence id lists, in data directory
-  - backbone file, fasta, in data directory
-- KaKs_Calculator 2.0, intergrated in program
-- Mafft 7.475, need to install and specify in the PATH
-- Biopython
-- numpy
-- pandas
-- matplotlib
+- `blast+ 2.11.0`, intergrated in folder `package`
+- `KaKs_Calculator 2.0`, intergrated folder `package`
+- `Mafft 7.475`, intergrated in folder `package`
+- `python 3.7` or higher is required. Check by running `python --version`
+- `biopython 1.78`
+- `numpy 1.19.5`
+- `pandas 1.1.5`
+- `matplotlib 3.3.3`
 
-## Modules
+## Description of Folders
 
-- Main.py
-- Decorator.py
-- Prepare.py
-- BlastTools.py
-- Verify.py
-- Iteration.py
-- Merge.py
-- PValue.py
-- Plot.py
+`Main.py` - Main program, one can run `python Main.py --help` to see all the available command line options.
 
-### BlastTools
+`source/`
 
-This module was designed to identify the potential recombintaion regions based on the similarity analysis using the representative strain as the query against all other candidate strains.  
+- `Prepare.py`: including two functions, `build_db` is used to build local blast database; `convert_to_binary` is used to convert id file from text format to binary format.
+- `BlastTools.py`: including three functions, `get_gene_backbone` is used to select closest sequence of query; `get_window_backbone` is used to get the alignment region between query sequence and backbone sequence in a specified window; `get_hits` is used to perform blastn algorithm to search the sequence with the highest score from the database.
+- `Verify.py`: This script was designed to test the robustness of the recombination identification and excluding false positive ones from noise and convergent evolution based on synomous mutation distance and bootstrap method. Bootstapping was performed by generating random sequences (query-backbone-similar triple (`multiseqalign` function)) with the same number of codons through randomly selecting nucleotide triples from the real sequences, and repeated 1000 times.
+- `Iteration.py`: This script was the main module to identify recombination regions with a window sliding strategy.
+- `Merge.py`: This script was designed to analysis the log file from the recombination analysis, and merge series of confirmed overlapping recombiation windows to longer regions.
 
-Taking the closest lineage from the genomic tree as the backbone (user given or auto set with `get_gene_backbone` function).  
+`data/`:  It doesn't matter where you save required files, but we strongly recommend you save these files within the `data` directory of our pipeline.
 
-For a specified window covering certain numbers codons, the most similar lineage was identified based on blastn algorithm (`get_hits` function). The coressponding backbone fragments was identified with `get_window_backbone` function.  
+`result/`: The recombination analysis log file will automatically saved in this folder in json format.
 
-### Verify
+`package/`: `blast+` is used to perform `blastn` algorithm, `mafft` is used to align sequences and `KaKs_Calculator` is used to get synonmous distances. All these packages have been intergrated in our pipeline and you don't need to install them.
 
-This module was designed to test the robustness of the recombination and to exclude the possibility of noise and convergent evolution based on synomous mutation distance and bootstrap method.  
+`simulation/`: The way to generate simulation database and simulation analysis result are in this directory.
 
-Bootstapping was performed by constructing random sequences (query-backbone-similar triple (`multiseqalign` function)) with the same number of codons through randomly selecting nucleotide triples from the real sequences, and repeated 1000 times. (`bootstrap2` function)  
+`example/`: We take coronavirus as a example.
 
-### Iteration
+## Quickstart
 
-This module was the main module to identify recombination regions. Intergrating search phage and verify phage in a `window` function and able to utilize multi cpus.
+### Installation
 
-### Merge
+This pipeline is written in Python3 and requires at least Python 3.7. Make sure you install Python 3.7 or higher. Check by running `pyhton --version` .
 
-This module was designed to analysis the log file from the recombination analysis, and merge series of confirmed overlapping recombiation windows to longer regions.  
+```bash
+$ git clone https://github.com/DuLab-SYSU/NSRcomb.git
+$ cd NSRcomb
 
-ATTEINTION: This is only experimental code and can only be used to reproduce the reslts of this study. The general verison will be released in the future verison.  
+# install requirements
+$ pip install -r requirements.txt
 
-### PValue
+# Test things are installed / run help
+$ python Main.py --help
+```
 
-This module will be designed to given the probaility of the identified recombination region. And will be released in the future verison.  
+#### Primary help output
 
-### Main
+```bash
+  -h, --help            show this help message and exit
+  --query QUERY, -q QUERY
+                        Required, query file path, fasta format
+  --backbone BACKBONE, -b BACKBONE
+                        Optional, backbone file path, fasta format, if not
+                        given, auto-select the sequence closest to the query
+  --negative_seqidlist NEGATIVE_SEQIDLIST, -n NEGATIVE_SEQIDLIST
+                        Required, negative sequence id file (with ".id" as
+                        suffix), which was used to exclude sequences in the
+                        same clade with query
+  --database DATABASE, -db DATABASE
+                        Required, fasta file path, or Database name (in "db"
+                        folder) generated by makeblastdb
+  --output OUTPUT, -o OUTPUT
+                        Required, name of log file, auto-saved in "result"
+                        folder
+  --plot PLOT, -p PLOT  Optional, name of result figure, auto-saved in result
+                        folder. Alternatively one can plot the result from the
+                        log file and ignore this option
+  --window_size WINDOW_SIZE, -ws WINDOW_SIZE
+                        Optional, window size, default 501
+  --step STEP, -s STEP  Optional, step size, default 3, must be an integer
+                        multiple of 3
+  --num_cpus NUM_CPUS, -nc NUM_CPUS
+                        Optional, number of CPUs, default 4
+  --min_length MIN_LENGTH, -l MIN_LENGTH
+                        Optional, minimum length of each recombinant region
+  --bootstrap_threshold BOOTSTRAP_THRESHOLD, -bs BOOTSTRAP_THRESHOLD
+                        Optional, bootstrap threshold
 
-Main program body.  
 
-### Interface
+```
 
-GUI interface.  
+### Usage
 
-## Install & Usage
+To get up & running, you'll need to supply a query file in fasta format, a database file in fasta format, and a id file in text mode.
 
-``` shell
-git clone https://github.com/DuLab-SYSU/NSRcomb.git
-cd NSRcomb/bin
-# CLI
-python Main.py -db all-cov -q ../data/SARS-CoV-2.ORF1ab.fasta -n ../data/SARS-CoV-2.acc -b ../data/SARS-CoV-2.backbone -o SARS-CoV-2.ORF1ab.result
-#GUI
-python Interface.py
+1. A query file (fasta format, must be **cds sequence**) is the sequence file of strain you are instrested in.
+2. A database file (fasta format) contains all the sequences that may provide the recombiantion materials to the query sequence. Usually including all the sequences share the same phylogeny with the query. Here we include all the coronavirus in the NCBI to our analysis. Alternatively, you can provide the database name if you generate it in advance using the `makeblastdb` tool and store it in the `db` folder.
+3. A id file is used to exclude sequences from your recombination analysis, which depend on your purpose. Usually you need to include the query and other related sequence's accs in this file. A example of what this id file should look like, is given blow.
+
+```
+emb|MT020881|
+emb|MT020880|
+emb|MN975262|
+emb|MN996527|
+emb|MN996529|
+```
+
+4. As a optional, a backbone that shares the highest genome similarity to query sequence, can be supplied in fasta format. If not given, our pipeline will automatically selelct the closest sequence from the database file.
+
+It doesn't matter where you save your query file, backbone file, database file and id file, but we strongly recommend you save these files within the `data` directory of our pipeline.
+
+When all the required files are ready, you can run the `Main.py` program to perform the recombination analysis.
+
+```bash
+$ python Main.py -q data/your_query_file.fasta -n data/your_id_file.id -db data/your_database_file.fasta -b data/your_backbone_file.fasta -ws window_size -s step_size -nc cpu_number -o output_log_name -p output_fig_name
+
+# once your have build the local blast database, you can directly supply the name of your own database
+$ python Main.py -q data/your_query_file.fasta -n data/your_id_file.id -db your_database_name -b data/your_backbone_file.fasta -ws window_size -s step_size -nc cpu_number -o output_log_name -p output_fig_name
+```
+
+### Example
+
+Here, we provide a reproduction of the results from our article. All required files can be found in the `example` folder.
+
+Here we show the code for SARS-CoV-2, the codes for other strains are similar. All log files are automatically saved in the `result` file.
+
+```bash
+$ python Main.py -q example/SARS-CoV-2.ORF1ab.fasta -n example/SARS-CoV-2.id -b example/SARS-CoV-2.backbone -db example/all_cov_unify.fasta -ws 501 -s 3 -nc 10 -o SARS-CoV-2.ORF1ab.result
+
+# here we use database name due to we have generate blast database in last command
+$ python Main.py -q example/SARS-CoV-2.S.fasta -n example/SARS-CoV-2.id -b example/SARS-CoV-2.backbone -db all_cov_unify -ws 501 -s 3 -nc 10 -o SARS-CoV-2.S.result
+
+$ python Main.py -q example/SARS-CoV-2.E.fasta -n example/SARS-CoV-2.id -b example/SARS-CoV-2.backbone -db all_cov_unify -ws 501 -s 3 -nc 10 -o SARS-CoV-2.E.result
+
+$ python Main.py -q example/SARS-CoV-2.M.fasta -n example/SARS-CoV-2.id -b example/SARS-CoV-2.backbone -db all_cov_unify -ws 501 -s 3 -nc 10 -o SARS-CoV-2.M.result
+
+$ python Main.py -q example/SARS-CoV-2.N.fasta -n example/SARS-CoV-2.id -b example/SARS-CoV-2.backbone -db all_cov_unify -ws 501 -s 3 -nc 10 -o SARS-CoV-2.N.result
+```
+
+Considering that 5 strains were studied here, and that each strain contains 5 cds, we used an additional script to visualize our results. Go to the `example` folder and run the `Merge_ncov.py`.
+
+```bash
+$ python Merge_ncov.py
 ```
