@@ -4,9 +4,9 @@ simulation/norecombinate/*
 simulation/recombinate/*
 simulation/replicates/*
 simulation/result/*
-db/*
-result/*
-data/*
+db/all*
+# result/
+# data/*
 old/
 
 # vscode
