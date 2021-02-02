@@ -192,6 +192,7 @@ if __name__ == "__main__":
         # par1 = host.twinx()
 
         host.set_ylim([0, 1.5])
+        host.set_yticks([0, 0.5, 1.0])
         if idx != 4:
             host.set_xticks([])
             host.set_xlabel('')

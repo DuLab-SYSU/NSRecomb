@@ -15,6 +15,15 @@ data_dir = root_dir.joinpath('data')
 db_dir = root_dir.joinpath('db')
 result_dir = root_dir.joinpath('result')
 
+if not result_dir.exists():
+    result_dir.mkdir()
+
+if not data_dir.exists():
+    data_dir.mkdir()
+
+if not db_dir.exists():
+    db_dir.mkdir()
+
 # specify dependecncy path
 Verify.KAKS_PATH = root_dir.joinpath('package', 'KaKs_Calculator2.0', 'bin')
 Verify.MAFFT_PATH = root_dir.joinpath('package', 'mafft-linux64')
@@ -83,6 +92,7 @@ parser.add_argument('--min_length', '-l', help='Optional, minimum length of each
 parser.add_argument('--bootstrap_threshold', '-bs', help='Optional, bootstrap threshold', required=False, default=0.8, type=float)
 
 args = parser.parse_args()
+
 
 QUERY = SeqIO.read(args.query, 'fasta')
 
