@@ -32,17 +32,24 @@ def py3seq(_in):
 
 
 results = []
-simu_dir = Path("/home/zeng/DulabWork/nCov/simulation/norecombinate")
+
+tasks = ['convergent', 'norecombinate', 'recombinate']
+simu_dir = Path("/home/zeng/DulabWork/nCov/simulation/")
+
+simu_dir = simu_dir / tasks[2]
 simu_dirs = [x for x in simu_dir.iterdir() if x.is_dir()]
 
 for simu_dir_i in simu_dirs:
-    mua = simu_dir_i.stem.split("_")[-1]
+    _, r, mua = simu_dir_i.name.split("_")
     replicates = simu_dir_i.joinpath('Results').glob("seque*")
     count = 0
     for replicate in replicates:
         if py3seq(replicate):
             count+=1
-    results.append((mua, count))    
+    results.append((r, mua, count))
 
-print(results)
-    
+# print(sorted(results))
+
+print("%17s%15s%13s" % ('Recombination Rate', 'Mutataion Rate', 'Probability'))
+for r, mua, count in sorted(results):
+    print("%17s%15s%13s" % (r, mua, count))
