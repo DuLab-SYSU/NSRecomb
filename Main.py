@@ -70,7 +70,7 @@ def handle_output(OUTPUT, PLOT):
     log_path = result_dir / (OUTPUT + ".log")
     if PLOT:
         fig_path = result_dir / (PLOT + ".png")
-        return str(fig_path), str(fig_path)
+        return str(log_path), str(fig_path)
     else:
         return str(log_path), False
 
